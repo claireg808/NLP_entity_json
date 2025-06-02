@@ -1,0 +1,4774 @@
+{
+  "37403161": {
+    "metadata": {
+      "title": "Overexpression of human alpha-Synuclein leads to dysregulated microbiome/metabolites with ageing in a rat model of Parkinson disease.",
+      "abstract": "Braak's hypothesis states that sporadic Parkinson's disease (PD) follows a specific progression of pathology from the peripheral to the central nervous system, and this progression can be monitored by detecting the\\u00a0accumulation of alpha-Synuclein (\\u03b1-Syn) protein. Consequently, there is\\u00a0growing interest in understanding how the gut (commensal) microbiome can regulate \\u03b1-Syn accumulation, as this could potentially lead to PD. We used 16S rRNA and shotgun sequencing to characterise microbial diversity. <sup>1</sup>H-NMR was employed to understand the metabolite\\u00a0production and intestinal inflammation estimated using ELISA and RNA-sequencing from feces and the\\u00a0intestinal epithelial layer respectively. The\\u00a0Na<sup>+</sup> channel current and gut permeability were measured using an\\u00a0Ussing chamber. Immunohistochemistry and immunofluorescence imaging were applied to detect the\\u00a0\\u03b1-Syn protein. LC-MS/MS was used for characterization of proteins from metabolite treated neuronal cells. Finally, Metascape and Ingenuity Pathway Analysis (IPA) bioinformatics tools were used for identification of dysregulated pathways. We studied a transgenic (TG) rat model overexpressing the human SNCA gene and found that a progressive gut microbial composition alteration characterized by the reduction of Firmicutes to Bacteroidetes ratio could be detected in the young TG rats. Interestingly, this ratio then increased with ageing. The\\u00a0dynamics of Lactobacillus and Alistipes were monitored and reduced Lactobacillus and increased Alistipes abundance was discerned in ageing TG rats. Additionally, the SNCA gene overexpression resulted in gut \\u03b1-Syn protein expression and increased with advanced age. Further, older TG animals had increased intestinal inflammation, decreased Na<sup>+</sup> current and a robust alteration in metabolite production characterized by the increase of succinate levels in feces and serum. Manipulation of the gut bacteria by short-term antibiotic cocktail\\u00a0treatment revealed a complete loss of short-chain fatty acids and a\\u00a0reduction in succinate levels. Although antibiotic\\u00a0cocktail treatment did not change \\u03b1-Syn expression in the enteric nervous system of the colon, however, reduced \\u03b1-Syn expression was detected in the olfactory bulbs (forebrain) of the TG rats. Our data emphasize that the gut microbiome dysbiosis synchronous with ageing leads to a specific alteration of gut metabolites and can be modulated by antibiotics which may affect PD pathology."
+    },
+    "entities": {
+      "37403251": {
+        "start_idx": 90,
+        "end_idx": 95,
+        "location": "title",
+        "entity": "ageing",
+        "label": "DDF"
+      },
+      "37403276": {
+        "start_idx": 115,
+        "end_idx": 131,
+        "location": "title",
+        "entity": "Parkinson disease",
+        "label": "DDF"
+      },
+      "37403201": {
+        "start_idx": 40,
+        "end_idx": 63,
+        "location": "abstract",
+        "entity": "Parkinson's disease (PD)",
+        "label": "DDF"
+      },
+      "37403279": {
+        "start_idx": 118,
+        "end_idx": 127,
+        "location": "abstract",
+        "entity": "peripheral",
+        "label": "DDF"
+      },
+      "37403297": {
+        "start_idx": 136,
+        "end_idx": 157,
+        "location": "abstract",
+        "entity": "central nervous system",
+        "label": "DDF"
+      },
+      "37403397": {
+        "start_idx": 236,
+        "end_idx": 263,
+        "location": "abstract",
+        "entity": "alpha-Synuclein (\\u03b1-Syn)",
+        "label": "DDF"
+      },
+      "37403505": {
+        "start_idx": 344,
+        "end_idx": 346,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "DDF"
+      },
+      "37403521": {
+        "start_idx": 360,
+        "end_idx": 369,
+        "location": "abstract",
+        "entity": "microbiome",
+        "label": "DDF"
+      },
+      "37403545": {
+        "start_idx": 384,
+        "end_idx": 393,
+        "location": "abstract",
+        "entity": "\\u03b1-Syn",
+        "label": "DDF"
+      },
+      "37403604": {
+        "start_idx": 443,
+        "end_idx": 444,
+        "location": "abstract",
+        "entity": "PD",
+        "label": "DDF"
+      },
+      "37403734": {
+        "start_idx": 573,
+        "end_idx": 582,
+        "location": "abstract",
+        "entity": "metabolite",
+        "label": "DDF"
+      },
+      "37403765": {
+        "start_idx": 604,
+        "end_idx": 626,
+        "location": "abstract",
+        "entity": "intestinal inflammation",
+        "label": "DDF"
+      },
+      "37403854": {
+        "start_idx": 693,
+        "end_idx": 719,
+        "location": "abstract",
+        "entity": "intestinal epithelial layer",
+        "label": "DDF"
+      },
+      "37403905": {
+        "start_idx": 744,
+        "end_idx": 757,
+        "location": "abstract",
+        "entity": "Na<sup>+</sup>",
+        "label": "DDF"
+      },
+      "37403940": {
+        "start_idx": 779,
+        "end_idx": 794,
+        "location": "abstract",
+        "entity": "gut permeability",
+        "label": "DDF"
+      },
+      "37404085": {
+        "start_idx": 924,
+        "end_idx": 933,
+        "location": "abstract",
+        "entity": "\\u03b1-Syn",
+        "label": "DDF"
+      },
+      "37404180": {
+        "start_idx": 1019,
+        "end_idx": 1032,
+        "location": "abstract",
+        "entity": "neuronal cells",
+        "label": "DDF"
+      },
+      "37404205": {
+        "start_idx": 1044,
+        "end_idx": 1052,
+        "location": "abstract",
+        "entity": "Metascape",
+        "label": "DDF"
+      },
+      "37404219": {
+        "start_idx": 1058,
+        "end_idx": 1089,
+        "location": "abstract",
+        "entity": "Ingenuity Pathway Analysis (IPA)",
+        "label": "DDF"
+      },
+      "37404305": {
+        "start_idx": 1144,
+        "end_idx": 1164,
+        "location": "abstract",
+        "entity": "dysregulated pathways",
+        "label": "DDF"
+      },
+      "37404341": {
+        "start_idx": 1180,
+        "end_idx": 1194,
+        "location": "abstract",
+        "entity": "transgenic (TG)",
+        "label": "DDF"
+      },
+      "37404392": {
+        "start_idx": 1231,
+        "end_idx": 1234,
+        "location": "abstract",
+        "entity": "SNCA",
+        "label": "DDF"
+      },
+      "37404431": {
+        "start_idx": 1270,
+        "end_idx": 1305,
+        "location": "abstract",
+        "entity": "gut microbial composition alteration",
+        "label": "DDF"
+      },
+      "37404502": {
+        "start_idx": 1341,
+        "end_idx": 1350,
+        "location": "abstract",
+        "entity": "Firmicutes",
+        "label": "DDF"
+      },
+      "37404516": {
+        "start_idx": 1355,
+        "end_idx": 1367,
+        "location": "abstract",
+        "entity": "Bacteroidetes",
+        "label": "DDF"
+      },
+      "37404561": {
+        "start_idx": 1400,
+        "end_idx": 1404,
+        "location": "abstract",
+        "entity": "young",
+        "label": "DDF"
+      },
+      "37404567": {
+        "start_idx": 1406,
+        "end_idx": 1407,
+        "location": "abstract",
+        "entity": "TG",
+        "label": "DDF"
+      },
+      "37404622": {
+        "start_idx": 1461,
+        "end_idx": 1466,
+        "location": "abstract",
+        "entity": "ageing",
+        "label": "DDF"
+      },
+      "37404639": {
+        "start_idx": 1478,
+        "end_idx": 1485,
+        "location": "abstract",
+        "entity": "dynamics",
+        "label": "DDF"
+      },
+      "37404651": {
+        "start_idx": 1490,
+        "end_idx": 1502,
+        "location": "abstract",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      },
+      "37404669": {
+        "start_idx": 1508,
+        "end_idx": 1516,
+        "location": "abstract",
+        "entity": "Alistipes",
+        "label": "DDF"
+      },
+      "37404706": {
+        "start_idx": 1545,
+        "end_idx": 1557,
+        "location": "abstract",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      },
+      "37404734": {
+        "start_idx": 1573,
+        "end_idx": 1581,
+        "location": "abstract",
+        "entity": "Alistipes",
+        "label": "DDF"
+      },
+      "37404771": {
+        "start_idx": 1610,
+        "end_idx": 1615,
+        "location": "abstract",
+        "entity": "ageing",
+        "label": "DDF"
+      },
+      "37404778": {
+        "start_idx": 1617,
+        "end_idx": 1618,
+        "location": "abstract",
+        "entity": "TG",
+        "label": "DDF"
+      },
+      "37404805": {
+        "start_idx": 1644,
+        "end_idx": 1647,
+        "location": "abstract",
+        "entity": "SNCA",
+        "label": "DDF"
+      },
+      "37404842": {
+        "start_idx": 1681,
+        "end_idx": 1713,
+        "location": "abstract",
+        "entity": "gut \\u03b1-Syn protein expression",
+        "label": "DDF"
+      },
+      "37404904": {
+        "start_idx": 1743,
+        "end_idx": 1745,
+        "location": "abstract",
+        "entity": "age",
+        "label": "DDF"
+      },
+      "37404924": {
+        "start_idx": 1763,
+        "end_idx": 1764,
+        "location": "abstract",
+        "entity": "TG",
+        "label": "DDF"
+      },
+      "37404949": {
+        "start_idx": 1788,
+        "end_idx": 1810,
+        "location": "abstract",
+        "entity": "intestinal inflammation",
+        "label": "DDF"
+      },
+      "37404984": {
+        "start_idx": 1823,
+        "end_idx": 1836,
+        "location": "abstract",
+        "entity": "Na<sup>+</sup>",
+        "label": "DDF"
+      },
+      "37405013": {
+        "start_idx": 1852,
+        "end_idx": 1868,
+        "location": "abstract",
+        "entity": "robust alteration",
+        "label": "DDF"
+      },
+      "37405034": {
+        "start_idx": 1873,
+        "end_idx": 1882,
+        "location": "abstract",
+        "entity": "metabolite",
+        "label": "DDF"
+      },
+      "37405089": {
+        "start_idx": 1928,
+        "end_idx": 1936,
+        "location": "abstract",
+        "entity": "succinate",
+        "label": "DDF"
+      },
+      "37405109": {
+        "start_idx": 1948,
+        "end_idx": 1952,
+        "location": "abstract",
+        "entity": "feces",
+        "label": "DDF"
+      },
+      "37405119": {
+        "start_idx": 1958,
+        "end_idx": 1962,
+        "location": "abstract",
+        "entity": "serum",
+        "label": "DDF"
+      },
+      "37405146": {
+        "start_idx": 1985,
+        "end_idx": 1996,
+        "location": "abstract",
+        "entity": "gut bacteria",
+        "label": "DDF"
+      },
+      "37405173": {
+        "start_idx": 2012,
+        "end_idx": 2030,
+        "location": "abstract",
+        "entity": "antibiotic cocktail",
+        "label": "DDF"
+      },
+      "37405219": {
+        "start_idx": 2058,
+        "end_idx": 2070,
+        "location": "abstract",
+        "entity": "complete loss",
+        "label": "DDF"
+      },
+      "37405236": {
+        "start_idx": 2075,
+        "end_idx": 2097,
+        "location": "abstract",
+        "entity": "short-chain fatty acids",
+        "label": "DDF"
+      },
+      "37405271": {
+        "start_idx": 2110,
+        "end_idx": 2118,
+        "location": "abstract",
+        "entity": "reduction",
+        "label": "DDF"
+      },
+      "37405284": {
+        "start_idx": 2123,
+        "end_idx": 2131,
+        "location": "abstract",
+        "entity": "succinate",
+        "label": "DDF"
+      },
+      "37405311": {
+        "start_idx": 2150,
+        "end_idx": 2159,
+        "location": "abstract",
+        "entity": "antibiotic",
+        "label": "DDF"
+      },
+      "37405361": {
+        "start_idx": 2200,
+        "end_idx": 2209,
+        "location": "abstract",
+        "entity": "\\u03b1-Syn",
+        "label": "DDF"
+      },
+      "37405390": {
+        "start_idx": 2229,
+        "end_idx": 2250,
+        "location": "abstract",
+        "entity": "enteric nervous system",
+        "label": "DDF"
+      },
+      "37405420": {
+        "start_idx": 2259,
+        "end_idx": 2263,
+        "location": "abstract",
+        "entity": "colon",
+        "label": "DDF"
+      },
+      "37405444": {
+        "start_idx": 2283,
+        "end_idx": 2292,
+        "location": "abstract",
+        "entity": "\\u03b1-Syn",
+        "label": "DDF"
+      },
+      "37405486": {
+        "start_idx": 2325,
+        "end_idx": 2339,
+        "location": "abstract",
+        "entity": "olfactory bulbs",
+        "label": "DDF"
+      },
+      "37405521": {
+        "start_idx": 2360,
+        "end_idx": 2361,
+        "location": "abstract",
+        "entity": "TG",
+        "label": "DDF"
+      },
+      "37405558": {
+        "start_idx": 2397,
+        "end_idx": 2420,
+        "location": "abstract",
+        "entity": "gut microbiome dysbiosis",
+        "label": "DDF"
+      },
+      "37405600": {
+        "start_idx": 2439,
+        "end_idx": 2444,
+        "location": "abstract",
+        "entity": "ageing",
+        "label": "DDF"
+      },
+      "37405641": {
+        "start_idx": 2480,
+        "end_idx": 2494,
+        "location": "abstract",
+        "entity": "gut metabolites",
+        "label": "DDF"
+      },
+      "37405681": {
+        "start_idx": 2520,
+        "end_idx": 2530,
+        "location": "abstract",
+        "entity": "antibiotics",
+        "label": "DDF"
+      },
+      "37405710": {
+        "start_idx": 2549,
+        "end_idx": 2550,
+        "location": "abstract",
+        "entity": "PD",
+        "label": "DDF"
+      },
+      "37405713": {
+        "start_idx": 2552,
+        "end_idx": 2560,
+        "location": "abstract",
+        "entity": "pathology",
+        "label": "DDF"
+      }
+    }
+  },
+  "33271426": {
+    "metadata": {
+      "title": "The gut microbiota in anxiety and depression - A systematic review.",
+      "abstract": "Growing evidence indicates the community of microorganisms throughout the gastrointestinal tract, (i.e., gut microbiota), is associated with anxiety and depressive disorders. We present the first systematic review of the gut microbiota in anxiety disorders, along with an update in depression. Consideration of shared underlying features is essential due to the high rates of comorbidity. Systematic searches, following PRISMA guidelines, identified 26 studies (two case-control comparisons of the gut microbiota in generalised anxiety disorder, 18 in depression, one incorporating both anxiety/depression, and five including symptom-only measures). Alpha and beta diversity findings were inconsistent; however, differences in bacterial taxa indicated disorders may be characterised by a higher abundance of proinflammatory species (e.g., Enterobacteriaceae and Desulfovibrio), and lower short-chain fatty acid producing-bacteria (e.g., Faecalibacterium). Several taxa, and their mechanisms of action, may relate to anxiety and depression pathophysiology via communication of peripheral inflammation to the brain. Although the gut microbiota remains a promising target for prevention and therapy, future research should assess confounders, particularly diet and psychotropic medications, and should examine microorganism function."
+    },
+    "entities": {
+      "33271448": {
+        "start_idx": 22,
+        "end_idx": 28,
+        "location": "title",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "33271460": {
+        "start_idx": 34,
+        "end_idx": 43,
+        "location": "title",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "33271567": {
+        "start_idx": 141,
+        "end_idx": 147,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "33271579": {
+        "start_idx": 153,
+        "end_idx": 172,
+        "location": "abstract",
+        "entity": "depressive disorders",
+        "label": "DDF"
+      },
+      "33271665": {
+        "start_idx": 239,
+        "end_idx": 255,
+        "location": "abstract",
+        "entity": "anxiety disorders",
+        "label": "DDF"
+      },
+      "33271708": {
+        "start_idx": 282,
+        "end_idx": 291,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "33271954": {
+        "start_idx": 528,
+        "end_idx": 543,
+        "location": "abstract",
+        "entity": "anxiety disorder",
+        "label": "DDF"
+      },
+      "33271978": {
+        "start_idx": 552,
+        "end_idx": 561,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "33272013": {
+        "start_idx": 587,
+        "end_idx": 593,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "33272021": {
+        "start_idx": 595,
+        "end_idx": 604,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "33272442": {
+        "start_idx": 1016,
+        "end_idx": 1022,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "33272454": {
+        "start_idx": 1028,
+        "end_idx": 1037,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      }
+    }
+  },
+  "33327540": {
+    "metadata": {
+      "title": "Ketogenic Diet: A Dietary Modification as an Anxiolytic Approach?",
+      "abstract": "Anxiety disorders comprise persistent, disabling conditions that are distributed across the globe, and are associated with the high medical and socioeconomic burden of the disease. Within the array of biopsychosocial treatment modalities-including monoaminergic antidepressants, benzodiazepines, and CBT-there is an unmet need for the effective treatment of anxiety disorders resulting in full remission and recovery. Nutritional intervention may be hypothesized as a promising treatment strategy; in particular, it facilitates relapse prevention. Low-carbohydrate high-fat diets (LCHF) may provide a rewarding outcome for some anxiety disorders; more research is needed before this regimen can be recommended to patients on a daily basis, but the evidence mentioned in this paper should encourage researchers and clinicians to consider LCHF as a piece of advice somewhere between psychotherapy and pharmacology, or as an add-on to those two."
+    },
+    "entities": {
+      "33327585": {
+        "start_idx": 45,
+        "end_idx": 54,
+        "location": "title",
+        "entity": "Anxiolytic",
+        "label": "DDF"
+      },
+      "33327589": {
+        "start_idx": 49,
+        "end_idx": 58,
+        "location": "abstract",
+        "entity": "conditions",
+        "label": "DDF"
+      },
+      "33327712": {
+        "start_idx": 172,
+        "end_idx": 178,
+        "location": "abstract",
+        "entity": "disease",
+        "label": "DDF"
+      },
+      "33327898": {
+        "start_idx": 358,
+        "end_idx": 374,
+        "location": "abstract",
+        "entity": "anxiety disorders",
+        "label": "DDF"
+      },
+      "33328168": {
+        "start_idx": 628,
+        "end_idx": 644,
+        "location": "abstract",
+        "entity": "anxiety disorders",
+        "label": "DDF"
+      },
+      "33328377": {
+        "start_idx": 837,
+        "end_idx": 840,
+        "location": "abstract",
+        "entity": "LCHF",
+        "label": "DDF"
+      }
+    }
+  },
+  "38525261": {
+    "metadata": {
+      "title": "Impact of dietary fiber on gut microbiota composition, function and gut-brain-modules in healthy adults - a systematic review protocol.",
+      "abstract": "The gut microbiota has been extensively implicated in health and disease. The functional outputs of the gut microbiota, such as microbial metabolites, are considered particularly important in this regard. Significant associations exist between alterations in the relative abundance of specific microbial taxa and mental health disorders. Dietary fiber has the potential to alter gut microbiota composition and function, modifying bacterial enzymatic function and the production of metabolites. As many taxa of microorganisms have enzymes capable of producing or degrading neurochemicals i.e. neuroactive gut brain modules, new predictive tools can be applied to existing datasets such as those harvested from dietary fiber interventions. We endeavor to perform a systematic review in order to identify studies reporting compositional gut microbiota alterations after interventions with dietary fiber in healthy individuals. We aim to also extract from the selected studies publicly available microbial genomic sequence datasets for reanalysis with a consistent bioinformatics pipeline, with the ultimate intention of identifying altered gut brain modules following dietary fiber interventions. Interventional trials and randomized controlled studies that are originally published, including cross-over and non-crossover design and involving healthy adult humans will be included. A systematic search of PubMed/MEDLINE and EMBASE, two electronic databases, will be completed. Various types of dietary fiber have an impact on the gut microbiota composition, with some promoting the growth of particular taxa while others are reduced in relative abundance. Our search focuses on the impact of this food component on the microbiota of healthy individuals. Compositional gut microbial changes have been reported and our review will compile and update these observations after reanalysis of their datasets with a consistent bioinformatic pipeline. From this it may be possible to predict more detailed functional consequences in terms of neuroactive gut brain modules, of the compositional alterations in gut microbial taxa."
+    },
+    "entities": {
+      "38525329": {
+        "start_idx": 68,
+        "end_idx": 84,
+        "location": "title",
+        "entity": "gut-brain-modules",
+        "label": "DDF"
+      },
+      "38525326": {
+        "start_idx": 65,
+        "end_idx": 71,
+        "location": "abstract",
+        "entity": "disease",
+        "label": "DDF"
+      },
+      "38525574": {
+        "start_idx": 313,
+        "end_idx": 335,
+        "location": "abstract",
+        "entity": "mental health disorders",
+        "label": "DDF"
+      },
+      "38525865": {
+        "start_idx": 592,
+        "end_idx": 620,
+        "location": "abstract",
+        "entity": "neuroactive gut brain modules",
+        "label": "DDF"
+      },
+      "38526398": {
+        "start_idx": 1137,
+        "end_idx": 1153,
+        "location": "abstract",
+        "entity": "gut brain modules",
+        "label": "DDF"
+      },
+      "38527293": {
+        "start_idx": 2032,
+        "end_idx": 2060,
+        "location": "abstract",
+        "entity": "neuroactive gut brain modules",
+        "label": "DDF"
+      }
+    }
+  },
+  "37071196": {
+    "metadata": {
+      "title": "Development of the gut microbiota in the first 14\\u00a0years of life and its relations to internalizing and externalizing difficulties and social anxiety during puberty.",
+      "abstract": "Relations between the gut microbiota and host mental health have been suggested by a growing number of case-control and cross-sectional studies, while supporting evidence is limited in large community samples followed during an extended period. Therefore, the current preregistered study ( https://osf.io/8ymav , September 7, 2022) described child gut microbiota development in the first 14\\u00a0years of life and explored its relations to internalizing and externalizing difficulties and social anxiety in puberty, a period of high relevance for the development of mental health problems. Fecal microbiota composition was analysed by 16S ribosomal RNA gene amplicon sequencing in a total of 1003 samples from 193 children. Through a clustering method, four distinct microbial clusters were newly identified in puberty. Most children within three of these clusters remained in the same clusters from the age of 12 to 14\\u00a0years, suggesting stability in microbial development and transition during this period. These three clusters were compositionally similar to enterotypes (i.e., a robust classification of the gut microbiota based on its composition across different populations) enriched in Bacteroides, Prevotella, and Ruminococcus, respectively. Two Prevotella 9-predominated clusters, including one reported by us earlier in middle childhood and the other one in puberty, were associated with more externalizing behavior at age 14. One Faecalibacterium-depleted pubertal cluster was related to more social anxiety at age 14. This finding was confirmed by a negative cross-sectional relation between Faecalibacterium and social anxiety in the 14-year-olds. The findings of this study continue to map gut microbiota development in a relatively large community sample followed from birth onwards, importantly extending our knowledge to puberty. Results indicate that Prevotella 9 and Faecalibacterium may be relevant microbial taxa in relation to externalizing behavior and social anxiety, respectively. These correlational findings need validations from other similar cohort studies, as well as well-designed mechanistic pre-clinical investigations before inferring cause and effect."
+    },
+    "entities": {
+      "37071286": {
+        "start_idx": 90,
+        "end_idx": 133,
+        "location": "title",
+        "entity": "internalizing and externalizing difficulties",
+        "label": "DDF"
+      },
+      "37071335": {
+        "start_idx": 139,
+        "end_idx": 152,
+        "location": "title",
+        "entity": "social anxiety",
+        "label": "DDF"
+      },
+      "37071636": {
+        "start_idx": 440,
+        "end_idx": 483,
+        "location": "abstract",
+        "entity": "internalizing and externalizing difficulties",
+        "label": "DDF"
+      },
+      "37071685": {
+        "start_idx": 489,
+        "end_idx": 502,
+        "location": "abstract",
+        "entity": "social anxiety",
+        "label": "DDF"
+      },
+      "37071762": {
+        "start_idx": 566,
+        "end_idx": 587,
+        "location": "abstract",
+        "entity": "mental health problems",
+        "label": "DDF"
+      },
+      "37072604": {
+        "start_idx": 1408,
+        "end_idx": 1429,
+        "location": "abstract",
+        "entity": "externalizing behavior",
+        "label": "DDF"
+      },
+      "37072705": {
+        "start_idx": 1509,
+        "end_idx": 1522,
+        "location": "abstract",
+        "entity": "social anxiety",
+        "label": "DDF"
+      },
+      "37072826": {
+        "start_idx": 1630,
+        "end_idx": 1643,
+        "location": "abstract",
+        "entity": "social anxiety",
+        "label": "DDF"
+      },
+      "37073150": {
+        "start_idx": 1954,
+        "end_idx": 1975,
+        "location": "abstract",
+        "entity": "externalizing behavior",
+        "label": "DDF"
+      },
+      "37073177": {
+        "start_idx": 1981,
+        "end_idx": 1994,
+        "location": "abstract",
+        "entity": "social anxiety",
+        "label": "DDF"
+      }
+    }
+  },
+  "36532064": {
+    "metadata": {
+      "title": "Hypothesis of a potential BrainBiota and its relation to CNS autoimmune inflammation.",
+      "abstract": "Infectious agents have been long considered to play a role in the pathogenesis of neurological diseases as part of the interaction between genetic susceptibility and the environment. The role of bacteria in CNS autoimmunity has also been highlighted by changes in the diversity of gut microbiota in patients with neurological diseases such as Parkinson's disease, Alzheimer disease and multiple sclerosis, emphasizing the role of the gut-brain axis. We discuss the hypothesis of a brain microbiota, the BrainBiota: bacteria living in symbiosis with brain cells. Existence of various bacteria in the human brain is suggested by morphological evidence, presence of bacterial proteins, metabolites, transcripts and mucosal-associated invariant T cells. Based on our data, we discuss the hypothesis that these bacteria are an integral part of brain development and immune tolerance as well as directly linked to the gut microbiome. We further suggest that changes of the BrainBiota during brain diseases may be the consequence or cause of the chronic inflammation similarly to the gut microbiota."
+    },
+    "entities": {
+      "36532090": {
+        "start_idx": 26,
+        "end_idx": 35,
+        "location": "title",
+        "entity": "BrainBiota",
+        "label": "anatomical_location"
+      },
+      "36532121": {
+        "start_idx": 57,
+        "end_idx": 59,
+        "location": "title",
+        "entity": "CNS",
+        "label": "anatomical_location"
+      },
+      "36532271": {
+        "start_idx": 207,
+        "end_idx": 209,
+        "location": "abstract",
+        "entity": "CNS",
+        "label": "anatomical_location"
+      },
+      "36532345": {
+        "start_idx": 281,
+        "end_idx": 283,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "36532498": {
+        "start_idx": 434,
+        "end_idx": 436,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "36532502": {
+        "start_idx": 438,
+        "end_idx": 442,
+        "location": "abstract",
+        "entity": "brain",
+        "label": "anatomical_location"
+      },
+      "36532663": {
+        "start_idx": 599,
+        "end_idx": 609,
+        "location": "abstract",
+        "entity": "human brain",
+        "label": "anatomical_location"
+      },
+      "36532903": {
+        "start_idx": 839,
+        "end_idx": 843,
+        "location": "abstract",
+        "entity": "brain",
+        "label": "anatomical_location"
+      },
+      "36532976": {
+        "start_idx": 912,
+        "end_idx": 914,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "36533049": {
+        "start_idx": 985,
+        "end_idx": 989,
+        "location": "abstract",
+        "entity": "brain",
+        "label": "anatomical_location"
+      },
+      "36533141": {
+        "start_idx": 1077,
+        "end_idx": 1079,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      }
+    }
+  },
+  "33195226": {
+    "metadata": {
+      "title": "Microbiome Profiling Reveals Gut Dysbiosis in the Metabotropic Glutamate Receptor 5 Knockout Mouse Model of Schizophrenia.",
+      "abstract": "Schizophrenia (SZ) is a psychiatric disorder that constitutes one of the top 10 global causes of disability. More recently, a potential pathogenic role for the gut microbial community (microbiota) has been highlighted, with numerous studies describing dysregulated microbial profiles in SZ patients when compared to healthy controls. However, no animal model of SZ has previously recapitulated the gut dysbiosis observed clinically. Since the metabotropic glutamate receptor 5 (mGlu5) knockout mice provide a preclinical model of SZ with strong face and predictive validity, in the present study we performed gut microbiome profiling of mGlu5 knockout (KO) and wild-type (WT) mice by 16S rRNA sequencing of bacterial genomic DNA from fecal samples, analyzing bacterial diversity and taxonomic composition, as well as gastrointestinal parameters as indicators of gut function. We found a significant genotype difference in microbial beta diversity. Analysis of composition of microbiomes (ANCOM) models were performed to evaluate microbiota compositions, which identified a decreased relative abundance of the <i>Erysipelotrichaceae</i> family and <i>Allobaculum</i> genus in this mouse model of SZ. We also identified a signature of bacteria discriminating between the genotypes (KO and WT), consisting of the Erysipelotrichales, Bacteroidales, and Clostridiales orders and macroscopic gut differences. We thus uncovered global differential community composition in the gut microbiota profile between mGlu5 KO and WT mice, outlining the first evidence for gut dysbiosis in a genetic animal model of SZ. Our findings suggest that this widely used preclinical model of SZ also has substantial utility for investigations of gut dysbiosis and associated signaling via the microbiota-gut-brain axis, as potential modulators of SZ pathogenesis. Our discovery opens up new avenues to explore gut dysbiosis and its proposed links to brain dysfunction in SZ, as well as novel therapeutic approaches to this devastating disorder."
+    },
+    "entities": {
+      "33195255": {
+        "start_idx": 29,
+        "end_idx": 41,
+        "location": "title",
+        "entity": "Gut Dysbiosis",
+        "label": "DDF"
+      },
+      "33195334": {
+        "start_idx": 108,
+        "end_idx": 120,
+        "location": "title",
+        "entity": "Schizophrenia",
+        "label": "DDF"
+      },
+      "33195250": {
+        "start_idx": 24,
+        "end_idx": 43,
+        "location": "abstract",
+        "entity": "psychiatric disorder",
+        "label": "DDF"
+      },
+      "33195323": {
+        "start_idx": 97,
+        "end_idx": 106,
+        "location": "abstract",
+        "entity": "disability",
+        "label": "DDF"
+      },
+      "33195362": {
+        "start_idx": 136,
+        "end_idx": 150,
+        "location": "abstract",
+        "entity": "pathogenic role",
+        "label": "DDF"
+      },
+      "33195513": {
+        "start_idx": 287,
+        "end_idx": 297,
+        "location": "abstract",
+        "entity": "SZ patients",
+        "label": "DDF"
+      },
+      "33195588": {
+        "start_idx": 362,
+        "end_idx": 363,
+        "location": "abstract",
+        "entity": "SZ",
+        "label": "DDF"
+      },
+      "33195624": {
+        "start_idx": 398,
+        "end_idx": 410,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "33195756": {
+        "start_idx": 530,
+        "end_idx": 531,
+        "location": "abstract",
+        "entity": "SZ",
+        "label": "DDF"
+      },
+      "33195835": {
+        "start_idx": 609,
+        "end_idx": 632,
+        "location": "abstract",
+        "entity": "gut microbiome profiling",
+        "label": "DDF"
+      },
+      "33196043": {
+        "start_idx": 817,
+        "end_idx": 843,
+        "location": "abstract",
+        "entity": "gastrointestinal parameters",
+        "label": "DDF"
+      },
+      "33196158": {
+        "start_idx": 932,
+        "end_idx": 945,
+        "location": "abstract",
+        "entity": "beta diversity",
+        "label": "DDF"
+      },
+      "33196421": {
+        "start_idx": 1195,
+        "end_idx": 1196,
+        "location": "abstract",
+        "entity": "SZ",
+        "label": "DDF"
+      },
+      "33196600": {
+        "start_idx": 1374,
+        "end_idx": 1400,
+        "location": "abstract",
+        "entity": "macroscopic gut differences",
+        "label": "DDF"
+      },
+      "33196696": {
+        "start_idx": 1470,
+        "end_idx": 1491,
+        "location": "abstract",
+        "entity": "gut microbiota profile",
+        "label": "DDF"
+      },
+      "33196782": {
+        "start_idx": 1556,
+        "end_idx": 1568,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "33196825": {
+        "start_idx": 1599,
+        "end_idx": 1600,
+        "location": "abstract",
+        "entity": "SZ",
+        "label": "DDF"
+      },
+      "33196893": {
+        "start_idx": 1667,
+        "end_idx": 1668,
+        "location": "abstract",
+        "entity": "SZ",
+        "label": "DDF"
+      },
+      "33196947": {
+        "start_idx": 1721,
+        "end_idx": 1733,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "33196994": {
+        "start_idx": 1768,
+        "end_idx": 1792,
+        "location": "abstract",
+        "entity": "microbiota-gut-brain axis",
+        "label": "DDF"
+      },
+      "33197048": {
+        "start_idx": 1822,
+        "end_idx": 1836,
+        "location": "abstract",
+        "entity": "SZ pathogenesis",
+        "label": "DDF"
+      },
+      "33197111": {
+        "start_idx": 1885,
+        "end_idx": 1897,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "33197151": {
+        "start_idx": 1925,
+        "end_idx": 1941,
+        "location": "abstract",
+        "entity": "brain dysfunction",
+        "label": "DDF"
+      },
+      "33197172": {
+        "start_idx": 1946,
+        "end_idx": 1947,
+        "location": "abstract",
+        "entity": "SZ",
+        "label": "DDF"
+      },
+      "33197224": {
+        "start_idx": 1998,
+        "end_idx": 2017,
+        "location": "abstract",
+        "entity": "devastating disorder",
+        "label": "DDF"
+      }
+    }
+  },
+  "34205336": {
+    "metadata": {
+      "title": "Regulation of Neurotransmitters by the Gut Microbiota and Effects on Cognition in Neurological Disorders.",
+      "abstract": "Emerging evidence indicates that gut microbiota is important in the regulation of brain activity and cognitive functions. Microbes mediate communication among the metabolic, peripheral immune, and central nervous systems via the microbiota-gut-brain axis. However, it is not well understood how the gut microbiome and neurons in the brain mutually interact or how these interactions affect normal brain functioning and cognition. We summarize the mechanisms whereby the gut microbiota regulate the production, transportation, and functioning of neurotransmitters. We also discuss how microbiome dysbiosis affects cognitive function, especially in neurodegenerative diseases such as Alzheimer's disease and Parkinson's disease."
+    },
+    "entities": {
+      "34205405": {
+        "start_idx": 69,
+        "end_idx": 77,
+        "location": "title",
+        "entity": "Cognition",
+        "label": "DDF"
+      },
+      "34205418": {
+        "start_idx": 82,
+        "end_idx": 103,
+        "location": "title",
+        "entity": "Neurological Disorders",
+        "label": "DDF"
+      },
+      "34205437": {
+        "start_idx": 101,
+        "end_idx": 119,
+        "location": "abstract",
+        "entity": "cognitive functions",
+        "label": "DDF"
+      },
+      "34205755": {
+        "start_idx": 419,
+        "end_idx": 427,
+        "location": "abstract",
+        "entity": "cognition",
+        "label": "DDF"
+      },
+      "34205949": {
+        "start_idx": 613,
+        "end_idx": 630,
+        "location": "abstract",
+        "entity": "cognitive function",
+        "label": "DDF"
+      },
+      "34205983": {
+        "start_idx": 647,
+        "end_idx": 672,
+        "location": "abstract",
+        "entity": "neurodegenerative diseases",
+        "label": "DDF"
+      },
+      "34206018": {
+        "start_idx": 682,
+        "end_idx": 700,
+        "location": "abstract",
+        "entity": "Alzheimer's disease",
+        "label": "DDF"
+      },
+      "34206042": {
+        "start_idx": 706,
+        "end_idx": 724,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      }
+    }
+  },
+  "35674870": {
+    "metadata": {
+      "title": "Neurodegeneration and Neuroinflammation in Parkinson's disease: a Self-Sustained Loop.",
+      "abstract": "Neuroinflammation plays a significant role in Parkinson's disease (PD) etiology along with mitochondrial dysfunction and impaired proteostasis. In this context, mechanisms related to immune response can act as modifiers at different steps of the neurodegenerative process and justify the growing interest in anti-inflammatory agents as potential disease-modifying treatments in Parkinson's disease. The discovery of inherited gene mutations in Parkinson's disease has allowed researchers to develop cellular and animal models to study the mechanisms of the underlying biology, but the original cause of neuroinflammation in Parkinson's disease is still debated to date. Cell autonomous alterations in neuronal cells, including mitochondrial damage and protein aggregation, could play a role, but recent findings also highlighted the importance of intercellular communication at both local and systemic level. This has given rise to debate about the role of non-neuronal cells in Parkinson's disease and reignited intense research into the gut-brain axis and other non-neuronal interactions in the development of the disease. Whatever the original trigger of neuroinflammation in Parkinson's disease, what appears quite clear is that the aberrant activation of glial cells and other components of the immune system creates a vicious circle in which neurodegeneration and neuroinflammation nourish each other. In this review, we will provide an up-to-date summary of the main cellular alterations underlying neuroinflammation in Parkinson's disease, including those induced by environmental factors (e.g. the gut microbiome) and those related to the genetic background of affected patients. Starting from the lesson provided by familial forms of Parkinson's disease, we will discuss pathophysiological mechanisms linked to inflammation that could also play a role in idiopathic forms. Finally, we will comment on the potential clinical translatability of immunobiomarkers identified in Parkinson's disease patient cohorts and provide an update on current therapeutic strategies aimed at overcoming or preventing inflammation in Parkinson's disease."
+    },
+    "entities": {
+      "35674913": {
+        "start_idx": 43,
+        "end_idx": 61,
+        "location": "title",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35674916": {
+        "start_idx": 46,
+        "end_idx": 64,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35675248": {
+        "start_idx": 378,
+        "end_idx": 396,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35675314": {
+        "start_idx": 444,
+        "end_idx": 462,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35675494": {
+        "start_idx": 624,
+        "end_idx": 642,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35675849": {
+        "start_idx": 979,
+        "end_idx": 997,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35676049": {
+        "start_idx": 1179,
+        "end_idx": 1197,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35676397": {
+        "start_idx": 1527,
+        "end_idx": 1545,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35676614": {
+        "start_idx": 1744,
+        "end_idx": 1762,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35676854": {
+        "start_idx": 1984,
+        "end_idx": 2002,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "35676996": {
+        "start_idx": 2126,
+        "end_idx": 2144,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      }
+    }
+  },
+  "31610228": {
+    "metadata": {
+      "title": "Plasma cytokine levels in patients with chronic alcohol overconsumption: Relations to gut microbiota markers and clinical correlates.",
+      "abstract": "Alcohol-related morbidity may involve changes in the gut microbiota and immune dysregulation. We have previously demonstrated alterations in gut microbiota composition and functions in patients with alcohol overconsumption, and now aimed to investigate possible associations between cytokine levels, gut microbiota, and clinical symptoms. We included hospital inpatients with a history of chronic alcohol overconsumption. For comparison, we included control patients with a low alcohol intake. Cytokine levels (TGF-\\u03b21, TNF-\\u03b1, IL-10, IL-8, IL-6, IFN-\\u03b3, MCP-1, IL-1RA, IL-1\\u03b2, and IL-17) were determined using a customized V-plex assay. We then examined associations of cytokine levels with the abundance of Proteobacteria and Faecalibacterium, percentage of the short-chain fatty acid butyrate, psychiatric symptoms (Hospital Anxiety and Depression Scale), and biochemical liver variables. We included 28 patients with alcohol overconsumption (79% men), and 25 control patients (72% men). Patients with alcohol overconsumption had higher levels of IL-6 (p\\u00a0=\\u00a00.002), IFN-\\u03b3 (p\\u00a0=\\u00a00.018), and MCP-1 (p\\u00a0=\\u00a00.006), and lower levels of TGF-\\u03b21 (p\\u00a0=\\u00a00.017) compared with control patients. Inverse correlations were found between Proteobacteria abundance and TNF-\\u03b1 (R<sub>s</sub>\\u00a0=\\u00a0-0.55, p\\u00a0=\\u00a00.02) and IL-8 (R<sub>s</sub>\\u00a0=\\u00a0-0.58, p\\u00a0=\\u00a00.014), and between Faecalibacterium and MCP-1 levels (R<sub>s</sub>\\u00a0=\\u00a0-0.56, p\\u00a0=\\u00a00.02) in the control patients, but not in patients with alcohol overconsumption. Patients with alcohol overconsumption reported more psychiatric symptoms, and these symptoms were inversely correlated with IL-10 levels. There were positive correlations between several of the assessed cytokines and biochemical liver variables, and negative correlations between cytokine levels and albumin. Patients with alcohol overconsumption had a cytokine profile suggestive of increased systemic inflammatory activity, with higher levels of pro-inflammatory cytokines (IL-6, IFN-\\u03b3, and MCP-1) and lower levels of anti-inflammatory cytokines (TGF-\\u03b21). The findings may represent a link between alcohol use and alcohol-related morbidity."
+    },
+    "entities": {
+      "31610268": {
+        "start_idx": 40,
+        "end_idx": 70,
+        "location": "title",
+        "entity": "chronic alcohol overconsumption",
+        "label": "DDF"
+      },
+      "31610300": {
+        "start_idx": 72,
+        "end_idx": 91,
+        "location": "abstract",
+        "entity": "immune dysregulation",
+        "label": "DDF"
+      },
+      "31610548": {
+        "start_idx": 320,
+        "end_idx": 336,
+        "location": "abstract",
+        "entity": "clinical symptoms",
+        "label": "DDF"
+      },
+      "31610617": {
+        "start_idx": 389,
+        "end_idx": 419,
+        "location": "abstract",
+        "entity": "chronic alcohol overconsumption",
+        "label": "DDF"
+      },
+      "31611041": {
+        "start_idx": 813,
+        "end_idx": 832,
+        "location": "abstract",
+        "entity": "psychiatric symptoms",
+        "label": "DDF"
+      },
+      "31611107": {
+        "start_idx": 879,
+        "end_idx": 905,
+        "location": "abstract",
+        "entity": "biochemical liver variables",
+        "label": "DDF"
+      },
+      "31611901": {
+        "start_idx": 1673,
+        "end_idx": 1692,
+        "location": "abstract",
+        "entity": "psychiatric symptoms",
+        "label": "DDF"
+      },
+      "31612066": {
+        "start_idx": 1838,
+        "end_idx": 1864,
+        "location": "abstract",
+        "entity": "biochemical liver variables",
+        "label": "DDF"
+      },
+      "31612252": {
+        "start_idx": 2024,
+        "end_idx": 2044,
+        "location": "abstract",
+        "entity": "inflammatory activity",
+        "label": "DDF"
+      },
+      "31612475": {
+        "start_idx": 2247,
+        "end_idx": 2271,
+        "location": "abstract",
+        "entity": "alcohol-related morbidity",
+        "label": "DDF"
+      }
+    }
+  },
+  "28716445": {
+    "metadata": {
+      "title": "Feeding Systems and the Gut Microbiome: Gut-Brain Interactions With Relevance to Psychiatric Conditions.",
+      "abstract": "Physical and mental health is dependent on the environment, and feeding is a prime example of this environmental exchange. While the hypothalamus controls both feeding behavior and the stress response, the integration of the neural control centers and the peripheral gut allows for disruption in the gastrointestinal systems and dysfunctional communication to the brain. The purpose of this review is to familiarize clinicians with the physiology controlling feeding behavior and its implications for psychiatric conditions, such as anorexia nervosa and depression. Growing understanding of how integrated bacterial life is in the body has shown that gut bacteria regulate basic physiologic processes and are implicated in various disease states and contribute to regulation of mood. Responses to stress have effects on feeding behavior and mood and the regulation of the stress response by the gut microbiota could contribute to the dysfunction seen in patients with psychiatric illnesses. Gut microbiota may contribute to dysfunction in psychiatric illnesses. New opportunities to modulate existing gut microbiota using probiotics could be novel targets for clinical interventions."
+    },
+    "entities": {
+      "28716526": {
+        "start_idx": 81,
+        "end_idx": 102,
+        "location": "title",
+        "entity": "Psychiatric Conditions",
+        "label": "DDF"
+      },
+      "28716745": {
+        "start_idx": 300,
+        "end_idx": 323,
+        "location": "abstract",
+        "entity": "gastrointestinal systems",
+        "label": "DDF"
+      },
+      "28716946": {
+        "start_idx": 501,
+        "end_idx": 522,
+        "location": "abstract",
+        "entity": "psychiatric conditions",
+        "label": "DDF"
+      },
+      "28716978": {
+        "start_idx": 533,
+        "end_idx": 548,
+        "location": "abstract",
+        "entity": "anorexia nervosa",
+        "label": "DDF"
+      },
+      "28716999": {
+        "start_idx": 554,
+        "end_idx": 563,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "28717176": {
+        "start_idx": 731,
+        "end_idx": 744,
+        "location": "abstract",
+        "entity": "disease states",
+        "label": "DDF"
+      },
+      "28717340": {
+        "start_idx": 895,
+        "end_idx": 908,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "28717413": {
+        "start_idx": 968,
+        "end_idx": 988,
+        "location": "abstract",
+        "entity": "psychiatric illnesses",
+        "label": "DDF"
+      },
+      "28717436": {
+        "start_idx": 991,
+        "end_idx": 1004,
+        "location": "abstract",
+        "entity": "Gut microbiota",
+        "label": "DDF"
+      },
+      "28717484": {
+        "start_idx": 1039,
+        "end_idx": 1059,
+        "location": "abstract",
+        "entity": "psychiatric illnesses",
+        "label": "DDF"
+      },
+      "28717546": {
+        "start_idx": 1101,
+        "end_idx": 1114,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      }
+    }
+  },
+  "31530799": {
+    "metadata": {
+      "title": "Abnormal composition of gut microbiota is associated with resilience versus susceptibility to inescapable electric stress.",
+      "abstract": "Increasing evidence indicates that abnormalities in the composition of gut microbiota might play a role in stress-related disorders. In the learned helplessness (LH) paradigm, ~60-70% rats are susceptible to LH in the face of inescapable electric stress. The role of gut microbiota in susceptibility in the LH paradigm is unknown. In this study, male rats were exposed to inescapable electric stress under the LH paradigm. The compositions of gut microbiota and short-chain fatty acids were assessed in fecal samples from control rats, non-LH (resilient) rats, and LH (susceptible) rats. Members of the order Lactobacillales were present at significantly higher levels in the susceptible rats than in control and resilient rats. At the family level, the number of Lactobacillaceae in the susceptible rats was significantly higher than in control and resilient rats. At the genus level, the numbers of Lactobacillus, Clostridium cluster III, and Anaerofustis in susceptible rats were significantly higher than in control and resilient rats. Levels of acetic acid and propionic acid in the feces of susceptible rats were lower than in those of control and resilient rats; however, the levels of lactic acid in the susceptible rats were higher than those of control and resilient rats. There was a positive correlation between lactic acid and Lactobacillus levels among these three groups. These findings suggest that abnormal composition of the gut microbiota, including organisms such as Lactobacillus, contributes to susceptibility versus resilience to LH in rats subjected to inescapable electric foot shock. Therefore, it appears likely that brain-gut axis plays a role in stress susceptibility in the LH paradigm."
+    },
+    "entities": {
+      "31530857": {
+        "start_idx": 58,
+        "end_idx": 67,
+        "location": "title",
+        "entity": "resilience",
+        "label": "DDF"
+      },
+      "31530875": {
+        "start_idx": 76,
+        "end_idx": 89,
+        "location": "title",
+        "entity": "susceptibility",
+        "label": "DDF"
+      },
+      "31530906": {
+        "start_idx": 107,
+        "end_idx": 130,
+        "location": "abstract",
+        "entity": "stress-related disorders",
+        "label": "DDF"
+      },
+      "31531007": {
+        "start_idx": 208,
+        "end_idx": 209,
+        "location": "abstract",
+        "entity": "LH",
+        "label": "DDF"
+      },
+      "31531106": {
+        "start_idx": 307,
+        "end_idx": 317,
+        "location": "abstract",
+        "entity": "LH paradigm",
+        "label": "DDF"
+      },
+      "31531209": {
+        "start_idx": 410,
+        "end_idx": 420,
+        "location": "abstract",
+        "entity": "LH paradigm",
+        "label": "DDF"
+      },
+      "31531335": {
+        "start_idx": 536,
+        "end_idx": 558,
+        "location": "abstract",
+        "entity": "non-LH (resilient) rats",
+        "label": "DDF"
+      },
+      "31531364": {
+        "start_idx": 565,
+        "end_idx": 585,
+        "location": "abstract",
+        "entity": "LH (susceptible) rats",
+        "label": "DDF"
+      },
+      "31531475": {
+        "start_idx": 676,
+        "end_idx": 691,
+        "location": "abstract",
+        "entity": "susceptible rats",
+        "label": "DDF"
+      },
+      "31531500": {
+        "start_idx": 701,
+        "end_idx": 707,
+        "location": "abstract",
+        "entity": "control",
+        "label": "DDF"
+      },
+      "31531512": {
+        "start_idx": 713,
+        "end_idx": 726,
+        "location": "abstract",
+        "entity": "resilient rats",
+        "label": "DDF"
+      },
+      "31531587": {
+        "start_idx": 788,
+        "end_idx": 803,
+        "location": "abstract",
+        "entity": "susceptible rats",
+        "label": "DDF"
+      },
+      "31531637": {
+        "start_idx": 838,
+        "end_idx": 844,
+        "location": "abstract",
+        "entity": "control",
+        "label": "DDF"
+      },
+      "31531649": {
+        "start_idx": 850,
+        "end_idx": 863,
+        "location": "abstract",
+        "entity": "resilient rats",
+        "label": "DDF"
+      },
+      "31531700": {
+        "start_idx": 901,
+        "end_idx": 913,
+        "location": "abstract",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      },
+      "31531715": {
+        "start_idx": 916,
+        "end_idx": 938,
+        "location": "abstract",
+        "entity": "Clostridium cluster III",
+        "label": "DDF"
+      },
+      "31531744": {
+        "start_idx": 945,
+        "end_idx": 956,
+        "location": "abstract",
+        "entity": "Anaerofustis",
+        "label": "DDF"
+      },
+      "31531760": {
+        "start_idx": 961,
+        "end_idx": 976,
+        "location": "abstract",
+        "entity": "susceptible rats",
+        "label": "DDF"
+      },
+      "31531811": {
+        "start_idx": 1012,
+        "end_idx": 1018,
+        "location": "abstract",
+        "entity": "control",
+        "label": "DDF"
+      },
+      "31531823": {
+        "start_idx": 1024,
+        "end_idx": 1037,
+        "location": "abstract",
+        "entity": "resilient rats",
+        "label": "DDF"
+      },
+      "31531896": {
+        "start_idx": 1097,
+        "end_idx": 1112,
+        "location": "abstract",
+        "entity": "susceptible rats",
+        "label": "DDF"
+      },
+      "31531941": {
+        "start_idx": 1142,
+        "end_idx": 1148,
+        "location": "abstract",
+        "entity": "control",
+        "label": "DDF"
+      },
+      "31531953": {
+        "start_idx": 1154,
+        "end_idx": 1167,
+        "location": "abstract",
+        "entity": "resilient rats",
+        "label": "DDF"
+      },
+      "31532011": {
+        "start_idx": 1212,
+        "end_idx": 1227,
+        "location": "abstract",
+        "entity": "susceptible rats",
+        "label": "DDF"
+      },
+      "31532054": {
+        "start_idx": 1255,
+        "end_idx": 1261,
+        "location": "abstract",
+        "entity": "control",
+        "label": "DDF"
+      },
+      "31532066": {
+        "start_idx": 1267,
+        "end_idx": 1280,
+        "location": "abstract",
+        "entity": "resilient rats",
+        "label": "DDF"
+      },
+      "31532139": {
+        "start_idx": 1340,
+        "end_idx": 1352,
+        "location": "abstract",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      },
+      "31532286": {
+        "start_idx": 1487,
+        "end_idx": 1499,
+        "location": "abstract",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      },
+      "31532316": {
+        "start_idx": 1517,
+        "end_idx": 1530,
+        "location": "abstract",
+        "entity": "susceptibility",
+        "label": "DDF"
+      },
+      "31532338": {
+        "start_idx": 1539,
+        "end_idx": 1548,
+        "location": "abstract",
+        "entity": "resilience",
+        "label": "DDF"
+      },
+      "31532352": {
+        "start_idx": 1553,
+        "end_idx": 1554,
+        "location": "abstract",
+        "entity": "LH",
+        "label": "DDF"
+      },
+      "31532443": {
+        "start_idx": 1644,
+        "end_idx": 1657,
+        "location": "abstract",
+        "entity": "brain-gut axis",
+        "label": "DDF"
+      },
+      "31532474": {
+        "start_idx": 1675,
+        "end_idx": 1695,
+        "location": "abstract",
+        "entity": "stress susceptibility",
+        "label": "DDF"
+      },
+      "31532503": {
+        "start_idx": 1704,
+        "end_idx": 1714,
+        "location": "abstract",
+        "entity": "LH paradigm",
+        "label": "DDF"
+      }
+    }
+  },
+  "34560239": {
+    "metadata": {
+      "title": "Regulation of neurotoxicity in the striatum and colon of MPTP-induced Parkinson's disease mice by gut microbiome.",
+      "abstract": "Increasing evidence suggests the role of gut-microbiota-brain axis in the pathogenesis of Parkinson's disease (PD). The objective of this study was to examine whether repeated administration of MPTP (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) can influence the neurotoxicity in the striatum and colon, and the composition of gut microbiota and short-chain fatty acids (SCFAs) in feces of adult mice. MPTP caused the reduction of dopamine transporter (DAT) and tyrosine hydroxylase (TH) in the striatum, and increases in phosphorylated \\u03b1-synuclein (p-\\u03b1-Syn) in the striatum and colon. There was a negative correlation between the expression of TH in the striatum and the expression of p-\\u03b1-Syn in the colon, suggesting a role of gut-brain communication. MPTP caused abnormalities in the \\u03b1- and \\u03b2-diversity of gut microbiota in the mice. Furthermore, the relative abundance of the genus Faecalicatena in the MPTP-treated group was significantly lower than that of control group. Interestingly, there was a positive correlation between the genus Faecalicatena and the expression of TH in the striatum. Moreover, MPTP did not alter the levels of SCFAs in feces samples. However, there was a positive correlation between the relative abundance of the genus Faecalicatena and propionic acid. The data suggest that MPTP-induced increases in colonic p-\\u03b1-Syn expression might be associated with dopaminergic neurotoxicity in the striatum via gut-microbiota-brain axis."
+    },
+    "entities": {
+      "34560253": {
+        "start_idx": 14,
+        "end_idx": 26,
+        "location": "title",
+        "entity": "neurotoxicity",
+        "label": "DDF"
+      },
+      "34560274": {
+        "start_idx": 35,
+        "end_idx": 42,
+        "location": "title",
+        "entity": "striatum",
+        "label": "DDF"
+      },
+      "34560287": {
+        "start_idx": 48,
+        "end_idx": 52,
+        "location": "title",
+        "entity": "colon",
+        "label": "DDF"
+      },
+      "34560309": {
+        "start_idx": 70,
+        "end_idx": 88,
+        "location": "title",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "34560329": {
+        "start_idx": 90,
+        "end_idx": 108,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "34560503": {
+        "start_idx": 264,
+        "end_idx": 276,
+        "location": "abstract",
+        "entity": "neurotoxicity",
+        "label": "DDF"
+      },
+      "34560524": {
+        "start_idx": 285,
+        "end_idx": 292,
+        "location": "abstract",
+        "entity": "striatum",
+        "label": "DDF"
+      },
+      "34560537": {
+        "start_idx": 298,
+        "end_idx": 302,
+        "location": "abstract",
+        "entity": "colon",
+        "label": "DDF"
+      },
+      "34560735": {
+        "start_idx": 496,
+        "end_idx": 503,
+        "location": "abstract",
+        "entity": "striatum",
+        "label": "DDF"
+      },
+      "34560816": {
+        "start_idx": 577,
+        "end_idx": 584,
+        "location": "abstract",
+        "entity": "striatum",
+        "label": "DDF"
+      },
+      "34560829": {
+        "start_idx": 590,
+        "end_idx": 594,
+        "location": "abstract",
+        "entity": "colon",
+        "label": "DDF"
+      },
+      "34560905": {
+        "start_idx": 666,
+        "end_idx": 673,
+        "location": "abstract",
+        "entity": "striatum",
+        "label": "DDF"
+      },
+      "34560956": {
+        "start_idx": 717,
+        "end_idx": 721,
+        "location": "abstract",
+        "entity": "colon",
+        "label": "DDF"
+      },
+      "34561355": {
+        "start_idx": 1116,
+        "end_idx": 1123,
+        "location": "abstract",
+        "entity": "striatum",
+        "label": "DDF"
+      },
+      "34561657": {
+        "start_idx": 1418,
+        "end_idx": 1443,
+        "location": "abstract",
+        "entity": "dopaminergic neurotoxicity",
+        "label": "DDF"
+      },
+      "34561691": {
+        "start_idx": 1452,
+        "end_idx": 1459,
+        "location": "abstract",
+        "entity": "striatum",
+        "label": "DDF"
+      }
+    }
+  },
+  "36978911": {
+    "metadata": {
+      "title": "The Potential of Flavonoids and Flavonoid Metabolites in the Treatment of Neurodegenerative Pathology in Disorders of Cognitive Decline.",
+      "abstract": "Flavonoids are a biodiverse family of dietary compounds that have antioxidant, anti-inflammatory, antiviral, and antibacterial cell protective profiles. They have received considerable attention as potential therapeutic agents in biomedicine and have been widely used in traditional complimentary medicine for generations. Such complimentary medical herbal formulations are extremely complex mixtures of many pharmacologically active compounds that provide a therapeutic outcome through a network pharmacological effects of considerable complexity. Methods are emerging to determine the active components used in complimentary medicine and their therapeutic targets and to decipher the complexities of how network pharmacology provides such therapeutic effects. The gut microbiome has important roles to play in the generation of bioactive flavonoid metabolites retaining or exceeding the antioxidative and anti-inflammatory properties of the intact flavonoid and, in some cases, new antitumor and antineurodegenerative bioactivities. Certain food items have been identified with high prebiotic profiles suggesting that neutraceutical supplementation may be beneficially employed to preserve a healthy population of bacterial symbiont species and minimize the establishment of harmful pathogenic organisms. Gut health is an important consideration effecting the overall health and wellbeing of linked organ systems. Bioconversion of dietary flavonoid components in the gut generates therapeutic metabolites that can also be transported by the vagus nerve and systemic circulation to brain cell populations to exert a beneficial effect. This is particularly important in a number of neurological disorders (autism, bipolar disorder, AD, PD) characterized by effects on moods, resulting in depression and anxiety, impaired motor function, and long-term cognitive decline. Native flavonoids have many beneficial properties in the alleviation of inflammation in tissues, however, concerns have been raised that therapeutic levels of flavonoids may not be achieved, thus allowing them to display optimal therapeutic effects. Dietary manipulation and vagal stimulation have both yielded beneficial responses in the treatment of autism spectrum disorders, depression, and anxiety, establishing the vagal nerve as a route of communication in the gut-brain axis with established roles in disease intervention. While a number of native flavonoids are beneficial in the treatment of neurological disorders and are known to penetrate the blood-brain barrier, microbiome-generated flavonoid metabolites (e.g., protocatechuic acid, urolithins, \\u03b3-valerolactones), which retain the antioxidant and anti-inflammatory potency of the native flavonoid in addition to bioactive properties that promote mitochondrial health and cerebrovascular microcapillary function, should also be considered as potential biotherapeutic agents. Studies are warranted to experimentally examine the efficacy of flavonoid metabolites directly, as they emerge as novel therapeutic options."
+    },
+    "entities": {
+      "36978985": {
+        "start_idx": 74,
+        "end_idx": 100,
+        "location": "title",
+        "entity": "Neurodegenerative Pathology",
+        "label": "DDF"
+      },
+      "36979016": {
+        "start_idx": 105,
+        "end_idx": 134,
+        "location": "title",
+        "entity": "Disorders of Cognitive Decline",
+        "label": "DDF"
+      },
+      "36980593": {
+        "start_idx": 1682,
+        "end_idx": 1703,
+        "location": "abstract",
+        "entity": "neurological disorders",
+        "label": "DDF"
+      },
+      "36980625": {
+        "start_idx": 1714,
+        "end_idx": 1729,
+        "location": "abstract",
+        "entity": "bipolar disorder",
+        "label": "DDF"
+      },
+      "36980643": {
+        "start_idx": 1732,
+        "end_idx": 1733,
+        "location": "abstract",
+        "entity": "AD",
+        "label": "DDF"
+      },
+      "36980647": {
+        "start_idx": 1736,
+        "end_idx": 1737,
+        "location": "abstract",
+        "entity": "PD",
+        "label": "DDF"
+      },
+      "36980699": {
+        "start_idx": 1788,
+        "end_idx": 1797,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "36980714": {
+        "start_idx": 1803,
+        "end_idx": 1809,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "36980762": {
+        "start_idx": 1851,
+        "end_idx": 1867,
+        "location": "abstract",
+        "entity": "cognitive decline",
+        "label": "DDF"
+      },
+      "36980853": {
+        "start_idx": 1942,
+        "end_idx": 1953,
+        "location": "abstract",
+        "entity": "inflammation",
+        "label": "DDF"
+      },
+      "36981133": {
+        "start_idx": 2222,
+        "end_idx": 2246,
+        "location": "abstract",
+        "entity": "autism spectrum disorders",
+        "label": "DDF"
+      },
+      "36981160": {
+        "start_idx": 2249,
+        "end_idx": 2258,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "36981176": {
+        "start_idx": 2265,
+        "end_idx": 2271,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "36981383": {
+        "start_idx": 2472,
+        "end_idx": 2493,
+        "location": "abstract",
+        "entity": "neurological disorders",
+        "label": "DDF"
+      }
+    }
+  },
+  "30309367": {
+    "metadata": {
+      "title": "Visceral pain: gut microbiota, a new hope?",
+      "abstract": "Visceral pain is a complex and heterogeneous disorder, which can range from the mild discomfort of indigestion to the agonizing pain of renal colic. Regulation of visceral pain involves the spinal cord as well as higher order brain structures. Recent findings have linked the microbiota to gastrointestinal disorders characterized by abdominal pain suggesting the ability of microbes to modulate visceral hypersensitivity and nociception to pain. In this review we describe the neuroanatomical basis of visceral pain signaling and the existing evidence of its manipulation exerted by the gut microbiota. We included an updated overview of the potential therapeutic effects of dietary intervention, specifically probiotics and prebiotics, in alleviating hypersensitivity to visceral pain stimuli. The gut microbiota dramatically impacts normal visceral pain sensation and affects the mechanisms mediating visceral nociception. Furthermore, manipulation of the gut microbiota using prebiotics and probiotics plays a potential role in the regulation of visceral pain disorders."
+    },
+    "entities": {
+      "30309503": {
+        "start_idx": 136,
+        "end_idx": 146,
+        "location": "abstract",
+        "entity": "renal colic",
+        "label": "DDF"
+      },
+      "30309657": {
+        "start_idx": 290,
+        "end_idx": 315,
+        "location": "abstract",
+        "entity": "gastrointestinal disorders",
+        "label": "DDF"
+      },
+      "30309701": {
+        "start_idx": 334,
+        "end_idx": 347,
+        "location": "abstract",
+        "entity": "abdominal pain",
+        "label": "DDF"
+      },
+      "30309763": {
+        "start_idx": 396,
+        "end_idx": 420,
+        "location": "abstract",
+        "entity": "visceral hypersensitivity",
+        "label": "DDF"
+      },
+      "30309793": {
+        "start_idx": 426,
+        "end_idx": 444,
+        "location": "abstract",
+        "entity": "nociception to pain",
+        "label": "DDF"
+      },
+      "30310140": {
+        "start_idx": 773,
+        "end_idx": 793,
+        "location": "abstract",
+        "entity": "visceral pain stimuli",
+        "label": "DDF"
+      },
+      "30310210": {
+        "start_idx": 843,
+        "end_idx": 865,
+        "location": "abstract",
+        "entity": "visceral pain sensation",
+        "label": "DDF"
+      },
+      "30310271": {
+        "start_idx": 904,
+        "end_idx": 923,
+        "location": "abstract",
+        "entity": "visceral nociception",
+        "label": "DDF"
+      },
+      "30310417": {
+        "start_idx": 1050,
+        "end_idx": 1072,
+        "location": "abstract",
+        "entity": "visceral pain disorders",
+        "label": "DDF"
+      }
+    }
+  },
+  "37676767": {
+    "metadata": {
+      "title": "Fiber deprivation and microbiome-borne curli shift gut bacterial populations and accelerate disease in a mouse model of Parkinson's disease.",
+      "abstract": "Parkinson's disease (PD) is a neurological disorder characterized by motor dysfunction, dopaminergic neuron loss, and alpha-synuclein (\\u03b1Syn) inclusions. Many PD risk factors are known, but those affecting disease progression are not. Lifestyle and microbial dysbiosis are candidates in this context. Diet-driven gut dysbiosis and reduced barrier function may increase exposure of enteric neurons to toxins. Here, we study whether fiber deprivation and exposure to bacterial curli, a protein cross-seeding with \\u03b1Syn, individually or together, exacerbate disease in the enteric and central nervous systems of a transgenic PD mouse model. We analyze the gut microbiome, motor behavior, and gastrointestinal and brain pathologies. We find that diet and bacterial curli alter the microbiome and exacerbate motor performance, as well as intestinal and brain pathologies, but to different extents. Our results shed important insights on how diet and microbiome-borne insults modulate Parkinson's disease progression via the gut-brain axis and have implications for lifestyle management of Parkinson's disease."
+    },
+    "entities": {
+      "37676887": {
+        "start_idx": 120,
+        "end_idx": 138,
+        "location": "title",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "37676797": {
+        "start_idx": 30,
+        "end_idx": 50,
+        "location": "abstract",
+        "entity": "neurological disorder",
+        "label": "DDF"
+      },
+      "37677754": {
+        "start_idx": 987,
+        "end_idx": 1005,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "37677859": {
+        "start_idx": 1092,
+        "end_idx": 1110,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      }
+    }
+  },
+  "33963281": {
+    "metadata": {
+      "title": "Gut microbiota modulates the inflammatory response and cognitive impairment induced by sleep deprivation.",
+      "abstract": "Sleep deprivation (SD) is increasingly common in modern society, which can lead to the dysregulation of inflammatory responses and cognitive impairment, but the mechanisms remain unclear. Emerging evidence suggests that gut microbiota plays a critical role in the pathogenesis and development of inflammatory and psychiatric diseases, possibly via gut microbiota-brain interactions and neuroinflammation. The present study investigated the impact of SD on gut microbiota composition and explored whether alterations of the gut microbiota play a causal role in chronic inflammatory states and cognitive impairment that are induced by SD. We found that SD-induced gut dysbiosis, inflammatory responses, and cognitive impairment in humans. Moreover, the absence of the gut microbiota suppressed inflammatory response and cognitive impairment induced by SD in germ-free (GF) mice. Transplantation of the \\"
+    },
+    "entities": {
+      "33963336": {
+        "start_idx": 55,
+        "end_idx": 74,
+        "location": "title",
+        "entity": "cognitive impairment",
+        "label": "DDF"
+      },
+      "33963412": {
+        "start_idx": 131,
+        "end_idx": 150,
+        "location": "abstract",
+        "entity": "cognitive impairment",
+        "label": "DDF"
+      },
+      "33963577": {
+        "start_idx": 296,
+        "end_idx": 307,
+        "location": "abstract",
+        "entity": "inflammatory",
+        "label": "DDF"
+      },
+      "33963594": {
+        "start_idx": 313,
+        "end_idx": 332,
+        "location": "abstract",
+        "entity": "psychiatric diseases",
+        "label": "DDF"
+      },
+      "33963667": {
+        "start_idx": 386,
+        "end_idx": 402,
+        "location": "abstract",
+        "entity": "neuroinflammation",
+        "label": "DDF"
+      },
+      "33963841": {
+        "start_idx": 560,
+        "end_idx": 586,
+        "location": "abstract",
+        "entity": "chronic inflammatory states",
+        "label": "DDF"
+      },
+      "33963873": {
+        "start_idx": 592,
+        "end_idx": 611,
+        "location": "abstract",
+        "entity": "cognitive impairment",
+        "label": "DDF"
+      },
+      "33963943": {
+        "start_idx": 662,
+        "end_idx": 674,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "33963986": {
+        "start_idx": 705,
+        "end_idx": 724,
+        "location": "abstract",
+        "entity": "cognitive impairment",
+        "label": "DDF"
+      },
+      "33964099": {
+        "start_idx": 818,
+        "end_idx": 837,
+        "location": "abstract",
+        "entity": "cognitive impairment",
+        "label": "DDF"
+      }
+    }
+  },
+  "37577447": {
+    "metadata": {
+      "title": "The association between oral and gut microbiota in male patients with alcohol dependence.",
+      "abstract": "The relationship between oral and gut microbiota in alcohol dependence (AD) is not well understood, particularly the effects of oral microbiota on the intestinal microbiota. The current study aimed to explore the association between oral and gut microbiota in AD to clarify whether oral microbiota could ectopically colonize into the gut. 16S rRNA sequence libraries were used to compare oral and gut microbial profiles in persons with AD and healthy controls (HC). Source Tracker and NetShift were used to identify bacteria responsible for ectopic colonization and indicate the driver function of ectopic colonization bacteria. The \\u03b1-diversity of oral microbiota and intestinal microbiota was significantly decreased in persons with AD (all <i>p</i> <\\u20090.05). Principal coordinate analysis indicated greater similarity between oral and gut microbiota in persons with AD than that in HC, and oral-gut overlaps in microbiota were found for 9 genera in persons with AD relative to only 3 genera in HC. The contribution ratio of oral microbiota to intestinal microbiota composition in AD is 5.26% based on Source Tracker\\uff0cand the AD with ectopic colonization showed the daily maximum standard drinks, red blood cell counts, hemoglobin content, and PACS scores decreasing (all <i>p</i> <\\u20090.05). Results highlight the connection between oral-gut microbiota in AD and suggest novel potential mechanistic possibilities."
+    },
+    "entities": {
+      "37577471": {
+        "start_idx": 24,
+        "end_idx": 27,
+        "location": "title",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37577480": {
+        "start_idx": 33,
+        "end_idx": 35,
+        "location": "title",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "37577472": {
+        "start_idx": 25,
+        "end_idx": 28,
+        "location": "abstract",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37577481": {
+        "start_idx": 34,
+        "end_idx": 36,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "37577598": {
+        "start_idx": 151,
+        "end_idx": 160,
+        "location": "abstract",
+        "entity": "intestinal",
+        "label": "anatomical_location"
+      },
+      "37577680": {
+        "start_idx": 233,
+        "end_idx": 236,
+        "location": "abstract",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37577689": {
+        "start_idx": 242,
+        "end_idx": 244,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "37577781": {
+        "start_idx": 334,
+        "end_idx": 336,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "37577835": {
+        "start_idx": 388,
+        "end_idx": 391,
+        "location": "abstract",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37577844": {
+        "start_idx": 397,
+        "end_idx": 399,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "37578100": {
+        "start_idx": 653,
+        "end_idx": 656,
+        "location": "abstract",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37578120": {
+        "start_idx": 673,
+        "end_idx": 682,
+        "location": "abstract",
+        "entity": "intestinal",
+        "label": "anatomical_location"
+      },
+      "37578284": {
+        "start_idx": 837,
+        "end_idx": 840,
+        "location": "abstract",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37578293": {
+        "start_idx": 846,
+        "end_idx": 848,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "37578348": {
+        "start_idx": 901,
+        "end_idx": 904,
+        "location": "abstract",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37578353": {
+        "start_idx": 906,
+        "end_idx": 908,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "37578482": {
+        "start_idx": 1035,
+        "end_idx": 1038,
+        "location": "abstract",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37578501": {
+        "start_idx": 1054,
+        "end_idx": 1063,
+        "location": "abstract",
+        "entity": "intestinal",
+        "label": "anatomical_location"
+      },
+      "37578797": {
+        "start_idx": 1350,
+        "end_idx": 1353,
+        "location": "abstract",
+        "entity": "oral",
+        "label": "anatomical_location"
+      },
+      "37578802": {
+        "start_idx": 1355,
+        "end_idx": 1357,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      }
+    }
+  },
+  "32389857": {
+    "metadata": {
+      "title": "Targeting the microbiota in pharmacology of psychiatric disorders.",
+      "abstract": "There is increasing interest in the role of the gut microbiota in health and disease. In particular, gut microbiota influences the Central Nervous System (CNS) development and homeostasis through neural pathways or routes involving the immune and circulatory systems. The CNS, in turn, shapes the intestinal flora through endocrine or stress-mediated responses. These overall bidirectional interactions, known as gut microbiota-brain axis, profoundly affect some brain functions, such as neurogenesis and the production of neurotransmitters, up to influence behavioral aspects of healthy subjects. Consequently, a dysfunction within this axis, as observed in case of dysbiosis, can have an impact on the behavior of a given individual (e.g. anxiety and depression) or on the development of pathologies affecting the CNS, such as autism spectrum disorders and neurodegenerative diseases (e.g. Alzheimer's disease and Parkinson's disease). It should be considered that the whole microbiota has a significant role not only on aspects concerning human physiology, such as harvesting of nutrients and energy from the ingested food or production of a wide range of bioactive compounds, but also has positive effects on the gastrointestinal barrier function and actively contributes to the pharmacokinetics of several compounds including neuropsychiatric drugs. Indeed, the microbiota is able to affect drug absorption and metabolism up to have an impact on drug activity and/or toxicity. On the other hand, drugs are able to shape the human gut microbiota itself, where these changes may contribute to their pharmacologic profile. Therefore, the emerging picture on the complex drug-microbiota bidirectional interplay will have considerable implications in the future not only in terms of clinical practice but also, upstream, on drug development."
+    },
+    "entities": {
+      "32389871": {
+        "start_idx": 14,
+        "end_idx": 23,
+        "location": "title",
+        "entity": "microbiota",
+        "label": "DDF"
+      },
+      "32389901": {
+        "start_idx": 44,
+        "end_idx": 64,
+        "location": "title",
+        "entity": "psychiatric disorders",
+        "label": "DDF"
+      },
+      "32389905": {
+        "start_idx": 48,
+        "end_idx": 61,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "32389958": {
+        "start_idx": 101,
+        "end_idx": 114,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "32389988": {
+        "start_idx": 131,
+        "end_idx": 158,
+        "location": "abstract",
+        "entity": "Central Nervous System (CNS)",
+        "label": "DDF"
+      },
+      "32390093": {
+        "start_idx": 236,
+        "end_idx": 241,
+        "location": "abstract",
+        "entity": "immune",
+        "label": "DDF"
+      },
+      "32390104": {
+        "start_idx": 247,
+        "end_idx": 265,
+        "location": "abstract",
+        "entity": "circulatory systems",
+        "label": "DDF"
+      },
+      "32390129": {
+        "start_idx": 272,
+        "end_idx": 274,
+        "location": "abstract",
+        "entity": "CNS",
+        "label": "DDF"
+      },
+      "32390154": {
+        "start_idx": 297,
+        "end_idx": 312,
+        "location": "abstract",
+        "entity": "intestinal flora",
+        "label": "DDF"
+      },
+      "32390179": {
+        "start_idx": 322,
+        "end_idx": 330,
+        "location": "abstract",
+        "entity": "endocrine",
+        "label": "DDF"
+      },
+      "32390192": {
+        "start_idx": 335,
+        "end_idx": 359,
+        "location": "abstract",
+        "entity": "stress-mediated responses",
+        "label": "DDF"
+      },
+      "32390270": {
+        "start_idx": 413,
+        "end_idx": 437,
+        "location": "abstract",
+        "entity": "gut microbiota-brain axis",
+        "label": "DDF"
+      },
+      "32390345": {
+        "start_idx": 488,
+        "end_idx": 499,
+        "location": "abstract",
+        "entity": "neurogenesis",
+        "label": "DDF"
+      },
+      "32390380": {
+        "start_idx": 523,
+        "end_idx": 539,
+        "location": "abstract",
+        "entity": "neurotransmitters",
+        "label": "DDF"
+      },
+      "32390524": {
+        "start_idx": 667,
+        "end_idx": 675,
+        "location": "abstract",
+        "entity": "dysbiosis",
+        "label": "DDF"
+      },
+      "32390598": {
+        "start_idx": 741,
+        "end_idx": 747,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "32390610": {
+        "start_idx": 753,
+        "end_idx": 762,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "32390673": {
+        "start_idx": 816,
+        "end_idx": 818,
+        "location": "abstract",
+        "entity": "CNS",
+        "label": "DDF"
+      },
+      "32390686": {
+        "start_idx": 829,
+        "end_idx": 853,
+        "location": "abstract",
+        "entity": "autism spectrum disorders",
+        "label": "DDF"
+      },
+      "32390716": {
+        "start_idx": 859,
+        "end_idx": 884,
+        "location": "abstract",
+        "entity": "neurodegenerative diseases",
+        "label": "DDF"
+      },
+      "32390749": {
+        "start_idx": 892,
+        "end_idx": 910,
+        "location": "abstract",
+        "entity": "Alzheimer's disease",
+        "label": "DDF"
+      },
+      "32390773": {
+        "start_idx": 916,
+        "end_idx": 934,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "32390834": {
+        "start_idx": 977,
+        "end_idx": 986,
+        "location": "abstract",
+        "entity": "microbiota",
+        "label": "DDF"
+      },
+      "32391074": {
+        "start_idx": 1217,
+        "end_idx": 1249,
+        "location": "abstract",
+        "entity": "gastrointestinal barrier function",
+        "label": "DDF"
+      },
+      "32391140": {
+        "start_idx": 1283,
+        "end_idx": 1298,
+        "location": "abstract",
+        "entity": "pharmacokinetics",
+        "label": "DDF"
+      },
+      "32391188": {
+        "start_idx": 1331,
+        "end_idx": 1352,
+        "location": "abstract",
+        "entity": "neuropsychiatric drugs",
+        "label": "DDF"
+      },
+      "32391224": {
+        "start_idx": 1367,
+        "end_idx": 1376,
+        "location": "abstract",
+        "entity": "microbiota",
+        "label": "DDF"
+      },
+      "32391253": {
+        "start_idx": 1396,
+        "end_idx": 1410,
+        "location": "abstract",
+        "entity": "drug absorption",
+        "label": "DDF"
+      },
+      "32391273": {
+        "start_idx": 1416,
+        "end_idx": 1425,
+        "location": "abstract",
+        "entity": "metabolism",
+        "label": "DDF"
+      },
+      "32391308": {
+        "start_idx": 1451,
+        "end_idx": 1463,
+        "location": "abstract",
+        "entity": "drug activity",
+        "label": "DDF"
+      },
+      "32391329": {
+        "start_idx": 1472,
+        "end_idx": 1479,
+        "location": "abstract",
+        "entity": "toxicity",
+        "label": "DDF"
+      },
+      "32391358": {
+        "start_idx": 1501,
+        "end_idx": 1505,
+        "location": "abstract",
+        "entity": "drugs",
+        "label": "DDF"
+      },
+      "32391392": {
+        "start_idx": 1535,
+        "end_idx": 1548,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "32391459": {
+        "start_idx": 1602,
+        "end_idx": 1622,
+        "location": "abstract",
+        "entity": "pharmacologic profile",
+        "label": "DDF"
+      },
+      "32391529": {
+        "start_idx": 1672,
+        "end_idx": 1686,
+        "location": "abstract",
+        "entity": "drug-microbiota",
+        "label": "DDF"
+      },
+      "32391640": {
+        "start_idx": 1783,
+        "end_idx": 1799,
+        "location": "abstract",
+        "entity": "clinical practice",
+        "label": "DDF"
+      },
+      "32391681": {
+        "start_idx": 1824,
+        "end_idx": 1839,
+        "location": "abstract",
+        "entity": "drug development",
+        "label": "DDF"
+      }
+    }
+  },
+  "38613087": {
+    "metadata": {
+      "title": "The Power of Psychobiotics in Depression: A Modern Approach through the Microbiota-Gut-Brain Axis: A Literature Review.",
+      "abstract": "The microbiota-gut-brain (MGB) axis is a complex communication network linking the gut, microbiota, and brain, influencing various aspects of health and disease. Dysbiosis, a disturbance in the gut microbiome equilibrium, can significantly impact the MGB axis, leading to alterations in microbial composition and function. Emerging evidence highlights the connection between microbiota alterations and neurological and psychiatric disorders, including depression. This review explores the potential of psychobiotics in managing depressive disorders, emphasizing their role in restoring microbial balance and influencing the MGB axis. Psychobiotics exhibit positive effects on the intestinal barrier, immune response, cortisol levels, and the hypothalamic-pituitary-adrenal (HPA) axis. Studies suggest that probiotics may serve as an adjunct therapy for depression, especially in treatment-resistant cases. This review discusses key findings from studies on psychobiotics interventions, emphasizing their impact on the gut-brain axis and mental health. The increasing acceptance of the expanded concept of the MGB axis underscores the importance of microorganisms in mental well-being. As our understanding of the microbiome's role in health and disease grows, probiotics emerge as promising agents for addressing mental health issues, providing new avenues for therapeutic interventions in depressive disorders."
+    },
+    "entities": {
+      "38613117": {
+        "start_idx": 30,
+        "end_idx": 39,
+        "location": "title",
+        "entity": "Depression",
+        "label": "DDF"
+      },
+      "38613249": {
+        "start_idx": 162,
+        "end_idx": 170,
+        "location": "abstract",
+        "entity": "Dysbiosis",
+        "label": "DDF"
+      },
+      "38613539": {
+        "start_idx": 452,
+        "end_idx": 461,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "38613615": {
+        "start_idx": 528,
+        "end_idx": 547,
+        "location": "abstract",
+        "entity": "depressive disorders",
+        "label": "DDF"
+      },
+      "38613940": {
+        "start_idx": 853,
+        "end_idx": 862,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "38614477": {
+        "start_idx": 1390,
+        "end_idx": 1409,
+        "location": "abstract",
+        "entity": "depressive disorders",
+        "label": "DDF"
+      }
+    }
+  },
+  "38203207": {
+    "metadata": {
+      "title": "Our Mental Health Is Determined by an Intrinsic Interplay between the Central Nervous System, Enteric Nerves, and Gut Microbiota.",
+      "abstract": "Bacteria in the gut microbiome play an intrinsic part in immune activation, intestinal permeability, enteric reflex, and entero-endocrine signaling. The gut microbiota communicates with the central nervous system (CNS) through the production of bile acids, short-chain fatty acids (SCFAs), glutamate (Glu), \\u03b3-aminobutyric acid (GABA), dopamine (DA), norepinephrine (NE), serotonin (5-HT), and histamine. A vast number of signals generated in the gastrointestinal tract (GIT) reach the brain via afferent fibers of the vagus nerve (VN). Signals from the central nervous system are returned to entero-epithelial cells (EES) via efferent vagus nerve fibers and communicate with 100 to 500 million neurons in the submucosa and myenteric plexus of the gut wall, which is referred to as the enteric nervous system (ENS). Intercommunications between the gut and central nervous system regulate mood, cognitive behavior, and neuropsychiatric disorders such as autism, depression, and schizophrenia. The modulation, development, and renewal of nerves in the enteric nervous system and changes in the gut microbiome alter the synthesis and degradation of neurotransmitters, ultimately influencing our mental health. The more we decipher the gut microbiome and understand its effect on neurotransmission, the closer we may get to developing novel therapeutic and psychobiotic compounds to improve cognitive functions and prevent mental disorders. In this review, the intricate control of entero-endocrine signaling and immune responses that keep the gut microbiome in a balanced state, and the influence that changing gut bacteria have on neuropsychiatric disorders, are discussed."
+    },
+    "entities": {
+      "38203277": {
+        "start_idx": 70,
+        "end_idx": 91,
+        "location": "title",
+        "entity": "Central Nervous System",
+        "label": "anatomical_location"
+      },
+      "38203301": {
+        "start_idx": 94,
+        "end_idx": 107,
+        "location": "title",
+        "entity": "Enteric Nerves",
+        "label": "anatomical_location"
+      },
+      "38203321": {
+        "start_idx": 114,
+        "end_idx": 127,
+        "location": "title",
+        "entity": "Gut Microbiota",
+        "label": "anatomical_location"
+      },
+      "38203223": {
+        "start_idx": 16,
+        "end_idx": 18,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "38203360": {
+        "start_idx": 153,
+        "end_idx": 155,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "38203397": {
+        "start_idx": 190,
+        "end_idx": 211,
+        "location": "abstract",
+        "entity": "central nervous system",
+        "label": "anatomical_location"
+      },
+      "38203658": {
+        "start_idx": 451,
+        "end_idx": 472,
+        "location": "abstract",
+        "entity": "gastrointestinal tract",
+        "label": "anatomical_location"
+      },
+      "38203682": {
+        "start_idx": 475,
+        "end_idx": 477,
+        "location": "abstract",
+        "entity": "GIT",
+        "label": "anatomical_location"
+      },
+      "38203697": {
+        "start_idx": 490,
+        "end_idx": 494,
+        "location": "abstract",
+        "entity": "brain",
+        "label": "anatomical_location"
+      },
+      "38203730": {
+        "start_idx": 523,
+        "end_idx": 533,
+        "location": "abstract",
+        "entity": "vagus nerve",
+        "label": "anatomical_location"
+      },
+      "38203743": {
+        "start_idx": 536,
+        "end_idx": 537,
+        "location": "abstract",
+        "entity": "VN",
+        "label": "anatomical_location"
+      },
+      "38203765": {
+        "start_idx": 558,
+        "end_idx": 579,
+        "location": "abstract",
+        "entity": "central nervous system",
+        "label": "anatomical_location"
+      },
+      "38203847": {
+        "start_idx": 640,
+        "end_idx": 650,
+        "location": "abstract",
+        "entity": "vagus nerve",
+        "label": "anatomical_location"
+      },
+      "38203959": {
+        "start_idx": 752,
+        "end_idx": 754,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "38203997": {
+        "start_idx": 790,
+        "end_idx": 811,
+        "location": "abstract",
+        "entity": "enteric nervous system",
+        "label": "anatomical_location"
+      },
+      "38204021": {
+        "start_idx": 814,
+        "end_idx": 816,
+        "location": "abstract",
+        "entity": "ENS",
+        "label": "anatomical_location"
+      },
+      "38204059": {
+        "start_idx": 852,
+        "end_idx": 854,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "38204067": {
+        "start_idx": 860,
+        "end_idx": 881,
+        "location": "abstract",
+        "entity": "central nervous system",
+        "label": "anatomical_location"
+      },
+      "38204261": {
+        "start_idx": 1054,
+        "end_idx": 1075,
+        "location": "abstract",
+        "entity": "enteric nervous system",
+        "label": "anatomical_location"
+      },
+      "38204303": {
+        "start_idx": 1096,
+        "end_idx": 1098,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "38204443": {
+        "start_idx": 1236,
+        "end_idx": 1238,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "38204751": {
+        "start_idx": 1544,
+        "end_idx": 1546,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "38204819": {
+        "start_idx": 1612,
+        "end_idx": 1614,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      }
+    }
+  },
+  "32041265": {
+    "metadata": {
+      "title": "Interventional Influence of the Intestinal Microbiome Through Dietary Intervention and Bowel Cleansing Might Improve Motor Symptoms in Parkinson's Disease.",
+      "abstract": "The impact of the gut microbiome is being increasingly appreciated in health and in various chronic diseases, among them neurodegenerative disorders such as Parkinson's disease (PD). In the pathogenesis of PD, the role of the gut has been previously established. In conjunction with a better understanding of the intestinal microbiome, a link to the misfolding and spread of alpha-synuclein via inflammatory processes within the gut is discussed. In a case-control study, we assessed the gut microbiome of 54 PD patients and 32 healthy controls (HC). Additionally, we tested in this proof-of-concept study whether dietary intervention alone or additional physical colon cleaning may lead to changes of the gut microbiome in PD. 16 PD patients underwent a well-controlled balanced, ovo-lacto vegetarian diet intervention including short fatty acids for 14 days. 10 of those patients received additional treatment with daily fecal enema over 8 days. Stool samples were collected before and after 14 days of intervention. In comparison to HC, we could confirm previously reported PD associated microbiome changes. The UDPRS III significantly improved and the levodopa-equivalent daily dose decreased after vegetarian diet and fecal enema in a one-year follow-up. Additionally, we observed a significant association between the gut microbiome diversity and the UPDRS III and the abundance of <i>Ruminococcaceae</i>. Additionally, the abundance of <i>Clostridiaceae</i> was significantly reduced after enema. Dietary intervention and bowel cleansing may provide an additional non-pharmacologic therapeutic option for PD patients."
+    },
+    "entities": {
+      "32041382": {
+        "start_idx": 117,
+        "end_idx": 130,
+        "location": "title",
+        "entity": "Motor Symptoms",
+        "label": "DDF"
+      },
+      "32041400": {
+        "start_idx": 135,
+        "end_idx": 153,
+        "location": "title",
+        "entity": "Parkinson's Disease",
+        "label": "DDF"
+      },
+      "32041357": {
+        "start_idx": 92,
+        "end_idx": 107,
+        "location": "abstract",
+        "entity": "chronic diseases",
+        "label": "DDF"
+      },
+      "32041386": {
+        "start_idx": 121,
+        "end_idx": 147,
+        "location": "abstract",
+        "entity": "neurodegenerative disorders",
+        "label": "DDF"
+      },
+      "32041422": {
+        "start_idx": 157,
+        "end_idx": 180,
+        "location": "abstract",
+        "entity": "Parkinson's disease (PD)",
+        "label": "DDF"
+      },
+      "32041455": {
+        "start_idx": 190,
+        "end_idx": 201,
+        "location": "abstract",
+        "entity": "pathogenesis",
+        "label": "DDF"
+      },
+      "32041471": {
+        "start_idx": 206,
+        "end_idx": 207,
+        "location": "abstract",
+        "entity": "PD",
+        "label": "DDF"
+      },
+      "32041774": {
+        "start_idx": 509,
+        "end_idx": 519,
+        "location": "abstract",
+        "entity": "PD patients",
+        "label": "DDF"
+      },
+      "32041793": {
+        "start_idx": 528,
+        "end_idx": 548,
+        "location": "abstract",
+        "entity": "healthy controls (HC)",
+        "label": "DDF"
+      },
+      "32041989": {
+        "start_idx": 724,
+        "end_idx": 725,
+        "location": "abstract",
+        "entity": "PD",
+        "label": "DDF"
+      },
+      "32041996": {
+        "start_idx": 731,
+        "end_idx": 741,
+        "location": "abstract",
+        "entity": "PD patients",
+        "label": "DDF"
+      },
+      "32042301": {
+        "start_idx": 1036,
+        "end_idx": 1037,
+        "location": "abstract",
+        "entity": "HC",
+        "label": "DDF"
+      },
+      "32042342": {
+        "start_idx": 1077,
+        "end_idx": 1108,
+        "location": "abstract",
+        "entity": "PD associated microbiome changes",
+        "label": "DDF"
+      },
+      "32042380": {
+        "start_idx": 1115,
+        "end_idx": 1123,
+        "location": "abstract",
+        "entity": "UDPRS III",
+        "label": "DDF"
+      },
+      "32042421": {
+        "start_idx": 1156,
+        "end_idx": 1185,
+        "location": "abstract",
+        "entity": "levodopa-equivalent daily dose",
+        "label": "DDF"
+      },
+      "32042622": {
+        "start_idx": 1357,
+        "end_idx": 1365,
+        "location": "abstract",
+        "entity": "UPDRS III",
+        "label": "DDF"
+      },
+      "32042877": {
+        "start_idx": 1612,
+        "end_idx": 1622,
+        "location": "abstract",
+        "entity": "PD patients",
+        "label": "DDF"
+      }
+    }
+  },
+  "32999308": {
+    "metadata": {
+      "title": "DJ-1 (Park7) affects the gut microbiome, metabolites and the development of innate lymphoid cells (ILCs).",
+      "abstract": "The proper communication between gut and brain is pivotal for the maintenance of health and, dysregulation of the gut-brain axis can lead to several clinical disorders. In Parkinson's disease (PD) 85% of all patients experienced constipation many years before showing any signs of motor phenotypes. For differential diagnosis and preventive treatment, there is an urgent need for the identification of biomarkers indicating early disease stages long before the disease phenotype manifests. DJ-1 is a chaperone protein involved in the protection against Parkinson's disease and genetic mutations in this protein have been shown to cause familial Parkinson's disease. However, how the deficiency of DJ-1 influences the risk of Parkinson's disease remains incompletely understood. In the present study, we provide evidence that DJ-1 is implicated in shaping the gut microbiome including; their metabolite production, inflammation and innate immune cells (ILCs) development. We revealed that deficiency of DJ-1 leads to a significant increase in two specific genera/species, namely Alistipes and Rikenella. In DJ-1 knock-out (DJ-1<sup>-/-</sup>) mice the production of fecal calprotectin and MCP-1 inflammatory proteins were elevated. Fecal and serum metabolic profile showed that malonate which influences the immune system was significantly more abundant in DJ-1<sup>-/-</sup> mice. DJ-1 appeared also to be involved in ILCs development. Further, inflammatory genes related to Parkinson's disease were augmented in the midbrain of DJ-1<sup>-/-</sup> mice. Our data suggest that metabolites and inflammation produced in the gut could be used as biomarkers for Parkinson's disease detection. Perhaps, these metabolites and inflammatory mediators could be involved in triggering inflammation resulting in Parkinson's disease pathology."
+    },
+    "entities": {
+      "32999384": {
+        "start_idx": 76,
+        "end_idx": 103,
+        "location": "title",
+        "entity": "innate lymphoid cells (ILCs)",
+        "label": "DDF"
+      },
+      "32999480": {
+        "start_idx": 172,
+        "end_idx": 195,
+        "location": "abstract",
+        "entity": "Parkinson's disease (PD)",
+        "label": "DDF"
+      },
+      "32999861": {
+        "start_idx": 553,
+        "end_idx": 571,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "32999953": {
+        "start_idx": 645,
+        "end_idx": 663,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33000033": {
+        "start_idx": 725,
+        "end_idx": 743,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33000222": {
+        "start_idx": 914,
+        "end_idx": 925,
+        "location": "abstract",
+        "entity": "inflammation",
+        "label": "DDF"
+      },
+      "33000239": {
+        "start_idx": 931,
+        "end_idx": 968,
+        "location": "abstract",
+        "entity": "innate immune cells (ILCs) development",
+        "label": "DDF"
+      },
+      "33000386": {
+        "start_idx": 1078,
+        "end_idx": 1086,
+        "location": "abstract",
+        "entity": "Alistipes",
+        "label": "DDF"
+      },
+      "33000400": {
+        "start_idx": 1092,
+        "end_idx": 1100,
+        "location": "abstract",
+        "entity": "Rikenella",
+        "label": "DDF"
+      },
+      "33000479": {
+        "start_idx": 1171,
+        "end_idx": 1182,
+        "location": "abstract",
+        "entity": "calprotectin",
+        "label": "DDF"
+      },
+      "33000496": {
+        "start_idx": 1188,
+        "end_idx": 1214,
+        "location": "abstract",
+        "entity": "MCP-1 inflammatory proteins",
+        "label": "DDF"
+      },
+      "33000585": {
+        "start_idx": 1277,
+        "end_idx": 1284,
+        "location": "abstract",
+        "entity": "malonate",
+        "label": "DDF"
+      },
+      "33000726": {
+        "start_idx": 1418,
+        "end_idx": 1433,
+        "location": "abstract",
+        "entity": "ILCs development",
+        "label": "DDF"
+      },
+      "33000753": {
+        "start_idx": 1445,
+        "end_idx": 1462,
+        "location": "abstract",
+        "entity": "inflammatory genes",
+        "label": "DDF"
+      },
+      "33000783": {
+        "start_idx": 1475,
+        "end_idx": 1493,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33000884": {
+        "start_idx": 1576,
+        "end_idx": 1586,
+        "location": "abstract",
+        "entity": "metabolites",
+        "label": "DDF"
+      },
+      "33000900": {
+        "start_idx": 1592,
+        "end_idx": 1603,
+        "location": "abstract",
+        "entity": "inflammation",
+        "label": "DDF"
+      },
+      "33000950": {
+        "start_idx": 1642,
+        "end_idx": 1651,
+        "location": "abstract",
+        "entity": "biomarkers",
+        "label": "DDF"
+      },
+      "33000965": {
+        "start_idx": 1657,
+        "end_idx": 1685,
+        "location": "abstract",
+        "entity": "Parkinson's disease detection",
+        "label": "DDF"
+      },
+      "33001011": {
+        "start_idx": 1703,
+        "end_idx": 1713,
+        "location": "abstract",
+        "entity": "metabolites",
+        "label": "DDF"
+      },
+      "33001027": {
+        "start_idx": 1719,
+        "end_idx": 1740,
+        "location": "abstract",
+        "entity": "inflammatory mediators",
+        "label": "DDF"
+      },
+      "33001082": {
+        "start_idx": 1774,
+        "end_idx": 1785,
+        "location": "abstract",
+        "entity": "inflammation",
+        "label": "DDF"
+      },
+      "33001108": {
+        "start_idx": 1800,
+        "end_idx": 1828,
+        "location": "abstract",
+        "entity": "Parkinson's disease pathology",
+        "label": "DDF"
+      }
+    }
+  },
+  "30900006": {
+    "metadata": {
+      "title": "Microbe and host interaction in gastrointestinal homeostasis.",
+      "abstract": "Researchers in psychiatry and neuroscience are increasingly recognizing the importance of gut-brain communication in mental health. Both genetics and environmental factors influence gut microbiota composition and function. This study examines host-microbe signaling at the gastrointestinal barrier to identify bottom-up mechanisms of microbiota-brain communication. We examined differences in gut microbiota composition and fecal miRNA profiles in BALB/c and C57BL/6 mice, in relation to gastrointestinal homeostasis and evaluated the response to perturbation of the gut microbiota by broad-spectrum antibiotic treatment. Differences in the gut microbiota composition between BALB/c and C57BL/6 mice, evaluated by fecal 16S rRNA gene sequencing, included significant differences in genera Prevotella, Alistipes, Akkermansia, and Ruminococcus. Significant differences in fecal miRNA profiles were determined using the nCounter NanoString platform. A BLASTn analysis identified conserved fecal miRNA target regions in bacterial metagenomes with 14 significant correlations found between fecal miRNA and predicted taxa relative abundance in our dataset. Treatment with broad-spectrum antibiotics for 2\\u00a0weeks resulted in a host-specific physiological response at the gastrointestinal barrier including a decrease in barrier permeability in BALB/c mice and alterations in the expression of barrier regulating genes in both strains. Genera Parabacteroides and Bacteroides were associated with changes in barrier function. The results of this study provide insight into how specific taxa influence gut barrier integrity and function. More generally, these data in the context of recent published studies makes a significant contribution to our understanding of host-microbe interactions providing new knowledge that can be harnessed by us and others in future mechanistic studies."
+    },
+    "entities": {
+      "30900038": {
+        "start_idx": 32,
+        "end_idx": 59,
+        "location": "title",
+        "entity": "gastrointestinal homeostasis",
+        "label": "DDF"
+      },
+      "30900123": {
+        "start_idx": 117,
+        "end_idx": 129,
+        "location": "abstract",
+        "entity": "mental health",
+        "label": "DDF"
+      },
+      "30900279": {
+        "start_idx": 273,
+        "end_idx": 296,
+        "location": "abstract",
+        "entity": "gastrointestinal barrier",
+        "label": "DDF"
+      },
+      "30900494": {
+        "start_idx": 488,
+        "end_idx": 515,
+        "location": "abstract",
+        "entity": "gastrointestinal homeostasis",
+        "label": "DDF"
+      },
+      "30900795": {
+        "start_idx": 789,
+        "end_idx": 798,
+        "location": "abstract",
+        "entity": "Prevotella",
+        "label": "DDF"
+      },
+      "30900807": {
+        "start_idx": 801,
+        "end_idx": 809,
+        "location": "abstract",
+        "entity": "Alistipes",
+        "label": "DDF"
+      },
+      "30900818": {
+        "start_idx": 812,
+        "end_idx": 822,
+        "location": "abstract",
+        "entity": "Akkermansia",
+        "label": "DDF"
+      },
+      "30900835": {
+        "start_idx": 829,
+        "end_idx": 840,
+        "location": "abstract",
+        "entity": "Ruminococcus",
+        "label": "DDF"
+      },
+      "30901274": {
+        "start_idx": 1268,
+        "end_idx": 1291,
+        "location": "abstract",
+        "entity": "gastrointestinal barrier",
+        "label": "DDF"
+      },
+      "30901445": {
+        "start_idx": 1439,
+        "end_idx": 1453,
+        "location": "abstract",
+        "entity": "Parabacteroides",
+        "label": "DDF"
+      },
+      "30901465": {
+        "start_idx": 1459,
+        "end_idx": 1469,
+        "location": "abstract",
+        "entity": "Bacteroides",
+        "label": "DDF"
+      },
+      "30901602": {
+        "start_idx": 1596,
+        "end_idx": 1616,
+        "location": "abstract",
+        "entity": "gut barrier integrity",
+        "label": "DDF"
+      }
+    }
+  },
+  "33777957": {
+    "metadata": {
+      "title": "Brain Neurotransmitter Modulation by Gut Microbiota in Anxiety and Depression.",
+      "abstract": "Anxiety and depression are highly prevalent mental illnesses worldwide and have long been thought to be closely associated to neurotransmitter modulation. There is growing evidence indicating that changes in the composition of the gut microbiota are related to mental health including anxiety and depression. In this review, we focus on combining the intestinal microbiota with serotonergic, dopaminergic, and noradrenergic neurotransmission in brain, with special emphasis on the anxiety- and depression-like behaviors in stress-related rodent models. Therefore, we reviewed studies conducted on germ-free rodents, or in animals subjected to microbiota absence using antibiotics, as well as via the usage of probiotics. All the results strongly support that the brain neurotransmitter modulation by gut microbiota is indispensable to the physiopathology of anxiety and depression. However, a lot of work is needed to determine how gut microbiota mediated neurotransmission in human brain has any physiological significance and, if any, how it can be used in therapy. Overall, the gut microbiota provides a novel way to alter neurotransmitter modulation in the brain and treat gut-brain axis diseases, such as anxiety and depression."
+    },
+    "entities": {
+      "33778012": {
+        "start_idx": 55,
+        "end_idx": 61,
+        "location": "title",
+        "entity": "Anxiety",
+        "label": "DDF"
+      },
+      "33778024": {
+        "start_idx": 67,
+        "end_idx": 76,
+        "location": "title",
+        "entity": "Depression",
+        "label": "DDF"
+      },
+      "33778242": {
+        "start_idx": 285,
+        "end_idx": 291,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "33778254": {
+        "start_idx": 297,
+        "end_idx": 306,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "33778815": {
+        "start_idx": 858,
+        "end_idx": 864,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "33778827": {
+        "start_idx": 870,
+        "end_idx": 879,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "33779167": {
+        "start_idx": 1210,
+        "end_idx": 1216,
+        "location": "abstract",
+        "entity": "anxiety",
+        "label": "DDF"
+      },
+      "33779179": {
+        "start_idx": 1222,
+        "end_idx": 1231,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      }
+    }
+  },
+  "25911232": {
+    "metadata": {
+      "title": "Microbiota regulation of the Mammalian gut-brain axis.",
+      "abstract": "The realization that the microbiota-gut-brain axis plays a critical role in health and disease has emerged over the past decade. The brain-gut axis is a bidirectional communication system between the central nervous system (CNS) and the gastrointestinal tract. Regulation of the microbiota-brain-gut axis is essential for maintaining homeostasis, including that of the CNS. The routes of this communication are not fully elucidated but include neural, humoral, immune, and metabolic pathways. A number of approaches have been used to interrogate this axis including the use of germ-free animals, probiotic agents, antibiotics, or animals exposed to pathogenic bacterial infections. Together, it is clear that the gut microbiota can be a key regulator of mood, cognition, pain, and obesity. Understanding microbiota-brain interactions is an exciting area of research which may contribute new insights into individual variations in cognition, personality, mood, sleep, and eating behavior, and how they contribute to a range of neuropsychiatric diseases ranging from affective disorders to autism and schizophrenia. Finally, the concept of psychobiotics, bacterial-based interventions with mental health benefit, is also emerging."
+    },
+    "entities": {
+      "25911271": {
+        "start_idx": 39,
+        "end_idx": 52,
+        "location": "title",
+        "entity": "gut-brain axis",
+        "label": "DDF"
+      },
+      "25911257": {
+        "start_idx": 25,
+        "end_idx": 49,
+        "location": "abstract",
+        "entity": "microbiota-gut-brain axis",
+        "label": "DDF"
+      },
+      "25911308": {
+        "start_idx": 76,
+        "end_idx": 81,
+        "location": "abstract",
+        "entity": "health",
+        "label": "DDF"
+      },
+      "25911319": {
+        "start_idx": 87,
+        "end_idx": 93,
+        "location": "abstract",
+        "entity": "disease",
+        "label": "DDF"
+      },
+      "25911365": {
+        "start_idx": 133,
+        "end_idx": 146,
+        "location": "abstract",
+        "entity": "brain-gut axis",
+        "label": "DDF"
+      },
+      "25911432": {
+        "start_idx": 200,
+        "end_idx": 227,
+        "location": "abstract",
+        "entity": "central nervous system (CNS)",
+        "label": "DDF"
+      },
+      "25911469": {
+        "start_idx": 237,
+        "end_idx": 258,
+        "location": "abstract",
+        "entity": "gastrointestinal tract",
+        "label": "DDF"
+      },
+      "25911511": {
+        "start_idx": 279,
+        "end_idx": 303,
+        "location": "abstract",
+        "entity": "microbiota-brain-gut axis",
+        "label": "DDF"
+      },
+      "25911566": {
+        "start_idx": 334,
+        "end_idx": 344,
+        "location": "abstract",
+        "entity": "homeostasis",
+        "label": "DDF"
+      },
+      "25911601": {
+        "start_idx": 369,
+        "end_idx": 371,
+        "location": "abstract",
+        "entity": "CNS",
+        "label": "DDF"
+      },
+      "25911693": {
+        "start_idx": 461,
+        "end_idx": 466,
+        "location": "abstract",
+        "entity": "immune",
+        "label": "DDF"
+      },
+      "25911809": {
+        "start_idx": 577,
+        "end_idx": 593,
+        "location": "abstract",
+        "entity": "germ-free animals",
+        "label": "DDF"
+      },
+      "25911828": {
+        "start_idx": 596,
+        "end_idx": 611,
+        "location": "abstract",
+        "entity": "probiotic agents",
+        "label": "DDF"
+      },
+      "25911846": {
+        "start_idx": 614,
+        "end_idx": 624,
+        "location": "abstract",
+        "entity": "antibiotics",
+        "label": "DDF"
+      },
+      "25911881": {
+        "start_idx": 649,
+        "end_idx": 679,
+        "location": "abstract",
+        "entity": "pathogenic bacterial infections",
+        "label": "DDF"
+      },
+      "25911945": {
+        "start_idx": 713,
+        "end_idx": 726,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "25911986": {
+        "start_idx": 754,
+        "end_idx": 757,
+        "location": "abstract",
+        "entity": "mood",
+        "label": "DDF"
+      },
+      "25911992": {
+        "start_idx": 760,
+        "end_idx": 768,
+        "location": "abstract",
+        "entity": "cognition",
+        "label": "DDF"
+      },
+      "25912003": {
+        "start_idx": 771,
+        "end_idx": 774,
+        "location": "abstract",
+        "entity": "pain",
+        "label": "DDF"
+      },
+      "25912013": {
+        "start_idx": 781,
+        "end_idx": 787,
+        "location": "abstract",
+        "entity": "obesity",
+        "label": "DDF"
+      },
+      "25912036": {
+        "start_idx": 804,
+        "end_idx": 832,
+        "location": "abstract",
+        "entity": "microbiota-brain interactions",
+        "label": "DDF"
+      },
+      "25912162": {
+        "start_idx": 930,
+        "end_idx": 938,
+        "location": "abstract",
+        "entity": "cognition",
+        "label": "DDF"
+      },
+      "25912173": {
+        "start_idx": 941,
+        "end_idx": 951,
+        "location": "abstract",
+        "entity": "personality",
+        "label": "DDF"
+      },
+      "25912186": {
+        "start_idx": 954,
+        "end_idx": 957,
+        "location": "abstract",
+        "entity": "mood",
+        "label": "DDF"
+      },
+      "25912192": {
+        "start_idx": 960,
+        "end_idx": 964,
+        "location": "abstract",
+        "entity": "sleep",
+        "label": "DDF"
+      },
+      "25912203": {
+        "start_idx": 971,
+        "end_idx": 985,
+        "location": "abstract",
+        "entity": "eating behavior",
+        "label": "DDF"
+      },
+      "25912258": {
+        "start_idx": 1026,
+        "end_idx": 1050,
+        "location": "abstract",
+        "entity": "neuropsychiatric diseases",
+        "label": "DDF"
+      },
+      "25912297": {
+        "start_idx": 1065,
+        "end_idx": 1083,
+        "location": "abstract",
+        "entity": "affective disorders",
+        "label": "DDF"
+      },
+      "25912320": {
+        "start_idx": 1088,
+        "end_idx": 1093,
+        "location": "abstract",
+        "entity": "autism",
+        "label": "DDF"
+      },
+      "25912331": {
+        "start_idx": 1099,
+        "end_idx": 1111,
+        "location": "abstract",
+        "entity": "schizophrenia",
+        "label": "DDF"
+      },
+      "25912370": {
+        "start_idx": 1138,
+        "end_idx": 1150,
+        "location": "abstract",
+        "entity": "psychobiotics",
+        "label": "DDF"
+      }
+    }
+  },
+  "34290352": {
+    "metadata": {
+      "title": "The change of gut microbiota in MDD patients under SSRIs treatment.",
+      "abstract": "The alterations in the gut microbiota have been reported to be correlated with the development of depression. The purpose of this study was to investigate the changes of intestinal microbiota in depressed patients after antidepressant treatment. We recruited 30 MDD patients (MDD group) and 30 healthy controls (control group). The MDD group received individualized treatment with escitalopram at a maximum dose of 20\\u00a0mg/day. After depressive symptoms improved to a HAMD scale score\\u2009>\\u200950%, a fecal sample was collected again and used as the follow-up group. The differences of gut microbiota between patients and controls, the characteristics of gut microbiota under treatment and the potential differences in metabolic functions were thus investigated. The Firmicutes/Bacteroidetes ratio was significantly different within three groups, and the ratio of follow-up group was significantly lower than those of the other two groups. Alpha diversity was significantly higher in MDD group than those of the other groups, and the alpha diversity was not significantly different between control and follow-up groups. The beta diversity of some patients resembled participants in the control group. The metabolic function of gut microbiota after treatment was still different from that of the control group. This study suggests that the intestinal flora of depressed patients has a tendency to return to normal under escitalopram treatment."
+    },
+    "entities": {
+      "34290384": {
+        "start_idx": 32,
+        "end_idx": 34,
+        "location": "title",
+        "entity": "MDD",
+        "label": "DDF"
+      },
+      "34290403": {
+        "start_idx": 51,
+        "end_idx": 55,
+        "location": "title",
+        "entity": "SSRIs",
+        "label": "DDF"
+      },
+      "34290450": {
+        "start_idx": 98,
+        "end_idx": 107,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "34290547": {
+        "start_idx": 195,
+        "end_idx": 203,
+        "location": "abstract",
+        "entity": "depressed",
+        "label": "DDF"
+      },
+      "34290572": {
+        "start_idx": 220,
+        "end_idx": 233,
+        "location": "abstract",
+        "entity": "antidepressant",
+        "label": "DDF"
+      },
+      "34290614": {
+        "start_idx": 262,
+        "end_idx": 264,
+        "location": "abstract",
+        "entity": "MDD",
+        "label": "DDF"
+      },
+      "34290684": {
+        "start_idx": 332,
+        "end_idx": 334,
+        "location": "abstract",
+        "entity": "MDD",
+        "label": "DDF"
+      },
+      "34291342": {
+        "start_idx": 990,
+        "end_idx": 992,
+        "location": "abstract",
+        "entity": "MDD",
+        "label": "DDF"
+      },
+      "34291717": {
+        "start_idx": 1365,
+        "end_idx": 1373,
+        "location": "abstract",
+        "entity": "depressed",
+        "label": "DDF"
+      },
+      "34291777": {
+        "start_idx": 1425,
+        "end_idx": 1436,
+        "location": "abstract",
+        "entity": "escitalopram",
+        "label": "DDF"
+      }
+    }
+  },
+  "36804535": {
+    "metadata": {
+      "title": "Beneficial effects of arketamine on the reduced bone mineral density in susceptible mice after chronic social defeat stress: Role of the gut-microbiota-bone-brain axis.",
+      "abstract": "Patients with depression exhibit reduced bone mineral density (BMD). We previously reported that the new antidepressant arketamine improved the reduced BMD seen in chronic social defeat stress (CSDS) susceptible mice and ovariectomized mice. Considering the role of the gut microbiota in maintaining bone health, the current study investigated whether the gut microbiota, along with metabolites derived from the microbiome, play a role in the beneficial actions of arketamine with respect to the anhedonia-like behavior and reduced BMD seen in CSDS susceptible mice. A single administration of arketamine (10\\u00a0mg/kg) ameliorated anhedonia-like behavior and decreased femoral neck cortical (and total) bone mineral density in CSDS susceptible mice. There was a negative correlation between anhedonia-like behavior and bone mineral density. Furthermore, significant differences in the abundance of microbiota (and plasma metabolites) were found between the CSDS\\u00a0+\\u00a0saline and CSDS\\u00a0+\\u00a0arketamine groups. Correlations were observed between the abundance of certain microbiota (and plasma metabolites) and cortical (and total) bone mineral density. These data suggest that, in addition to its anti-anhedonia effect, arketamine might ameliorate the reduced cortical (and total) bone mineral density seen in CSDS susceptible mice through the gut-microbiota-bone-brain axis. Therefore, arketamine could serve as a drug therapy for depressed patients with low bone mineral density. This article is part of the Special Issue on \\"
+    },
+    "entities": {
+      "36804583": {
+        "start_idx": 48,
+        "end_idx": 67,
+        "location": "title",
+        "entity": "bone mineral density",
+        "label": "DDF"
+      },
+      "36804638": {
+        "start_idx": 95,
+        "end_idx": 122,
+        "location": "title",
+        "entity": "chronic social defeat stress",
+        "label": "DDF"
+      },
+      "36804549": {
+        "start_idx": 14,
+        "end_idx": 23,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "36804576": {
+        "start_idx": 41,
+        "end_idx": 60,
+        "location": "abstract",
+        "entity": "bone mineral density",
+        "label": "DDF"
+      },
+      "36804699": {
+        "start_idx": 164,
+        "end_idx": 191,
+        "location": "abstract",
+        "entity": "chronic social defeat stress",
+        "label": "DDF"
+      },
+      "36805031": {
+        "start_idx": 496,
+        "end_idx": 518,
+        "location": "abstract",
+        "entity": "anhedonia-like behavior",
+        "label": "DDF"
+      },
+      "36805168": {
+        "start_idx": 633,
+        "end_idx": 655,
+        "location": "abstract",
+        "entity": "anhedonia-like behavior",
+        "label": "DDF"
+      },
+      "36805240": {
+        "start_idx": 705,
+        "end_idx": 724,
+        "location": "abstract",
+        "entity": "bone mineral density",
+        "label": "DDF"
+      },
+      "36805328": {
+        "start_idx": 793,
+        "end_idx": 815,
+        "location": "abstract",
+        "entity": "anhedonia-like behavior",
+        "label": "DDF"
+      },
+      "36805356": {
+        "start_idx": 821,
+        "end_idx": 840,
+        "location": "abstract",
+        "entity": "bone mineral density",
+        "label": "DDF"
+      },
+      "36805679": {
+        "start_idx": 1144,
+        "end_idx": 1163,
+        "location": "abstract",
+        "entity": "bone mineral density",
+        "label": "DDF"
+      },
+      "36805750": {
+        "start_idx": 1215,
+        "end_idx": 1223,
+        "location": "abstract",
+        "entity": "anhedonia",
+        "label": "DDF"
+      },
+      "36805829": {
+        "start_idx": 1294,
+        "end_idx": 1313,
+        "location": "abstract",
+        "entity": "bone mineral density",
+        "label": "DDF"
+      },
+      "36805980": {
+        "start_idx": 1445,
+        "end_idx": 1453,
+        "location": "abstract",
+        "entity": "depressed",
+        "label": "DDF"
+      },
+      "36806008": {
+        "start_idx": 1473,
+        "end_idx": 1492,
+        "location": "abstract",
+        "entity": "bone mineral density",
+        "label": "DDF"
+      }
+    }
+  },
+  "37212075": {
+    "metadata": {
+      "title": "IgA-Biome Profiles Correlate with Clinical Parkinson's disease Subtypes.",
+      "abstract": "Parkinson's disease is a heterogeneous neurodegenerative disorder with distinctive gut microbiome patterns suggesting that interventions targeting the gut microbiota may prevent, slow, or reverse disease progression and severity. Because secretory IgA (SIgA) plays a key role in shaping the gut microbiota, characterization of the IgA-Biome of individuals classified into either the akinetic rigid (AR) or tremor dominant (TD) Parkinson's disease clinical subtypes was used to further define taxa unique to these distinct clinical phenotypes. Flow cytometry was used to separate IgA-coated and -uncoated bacteria from stool samples obtained from AR and TD patients followed by amplification and sequencing of the V4 region of the 16\\u200aS rDNA gene on the MiSeq platform (Illumina). IgA-Biome analyses identified significant alpha and beta diversity differences between the Parkinson's disease phenotypes and the Firmicutes/Bacteroides ratio was significantly higher in those with TD compared to those with AR. In addition, discriminant taxa analyses identified a more pro-inflammatory bacterial profile in the IgA+ fraction of those with the AR clinical subclass compared to IgA-Biome analyses of those with the TD subclass and with the taxa identified in the unsorted control samples. IgA-Biome analyses underscores the importance of the host immune response in shaping the gut microbiome potentially affecting disease progression and presentation. In the present study, IgA-Biome analyses identified a unique proinflammatory microbial signature in the IgA+ fraction of those with AR that would have otherwise been undetected using conventional microbiome analysis approaches."
+    },
+    "entities": {
+      "37212118": {
+        "start_idx": 43,
+        "end_idx": 61,
+        "location": "title",
+        "entity": "Parkinson's disease",
+        "label": "anatomical_location"
+      },
+      "37212158": {
+        "start_idx": 83,
+        "end_idx": 96,
+        "location": "abstract",
+        "entity": "gut microbiome",
+        "label": "anatomical_location"
+      },
+      "37212226": {
+        "start_idx": 151,
+        "end_idx": 164,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "anatomical_location"
+      },
+      "37212366": {
+        "start_idx": 291,
+        "end_idx": 304,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "anatomical_location"
+      },
+      "37213452": {
+        "start_idx": 1377,
+        "end_idx": 1390,
+        "location": "abstract",
+        "entity": "gut microbiome",
+        "label": "anatomical_location"
+      }
+    }
+  },
+  "34174901": {
+    "metadata": {
+      "title": "Beyond the lesion site: minocycline augments inflammation and anxiety-like behavior following spinal cord injury (SCI) in rats through action on the gut microbiota.",
+      "abstract": "Minocycline is a clinically available synthetic tetracycline derivative with anti-inflammatory and antibiotic properties. The majority of studies show that minocycline can reduce tissue damage and improve functional recovery following central nervous system injuries, mainly attributed to the drug's direct anti-inflammatory, anti-oxidative, and neuroprotective properties. Surprisingly the consequences of minocycline's antibiotic (i.e., antibacterial) effects on the gut microbiota and systemic immune response after spinal cord injury have largely been ignored despite their links to changes in mental health and immune suppression. Here, we sought to determine minocycline's effect on spinal cord injury-induced changes in the microbiota-immune axis using a cervical contusion injury in female Lewis rats. We investigated a group that received minocycline following spinal cord injury (immediately after injury for 7\\u2009days), an untreated spinal cord injury group, an untreated uninjured group, and an uninjured group that received minocycline. Plasma levels of cytokines/chemokines and fecal microbiota composition (using 16s rRNA sequencing) were monitored for 4\\u2009weeks following spinal cord injury as measures of the microbiota-immune axis. Additionally, motor recovery and anxiety-like behavior were assessed throughout the study, and microglial activation was analyzed immediately rostral to, caudal to, and at the lesion epicenter. We found that minocycline had a profound acute effect on the microbiota diversity and composition, which was paralleled by the subsequent normalization of spinal cord injury-induced suppression of cytokines/chemokines. Importantly, gut dysbiosis following spinal cord injury has been linked to the development of anxiety-like behavior, which was also decreased by minocycline. Furthermore, although minocycline attenuated spinal cord injury-induced microglial activation, it did not affect the lesion size or promote measurable motor recovery. We show that minocycline's microbiota effects precede its long-term effects on systemic cytokines and chemokines following spinal cord injury. These results provide an exciting new target of minocycline as a therapeutic for central nervous system diseases and injuries."
+    },
+    "entities": {
+      "34174946": {
+        "start_idx": 45,
+        "end_idx": 56,
+        "location": "title",
+        "entity": "inflammation",
+        "label": "DDF"
+      },
+      "34174963": {
+        "start_idx": 62,
+        "end_idx": 82,
+        "location": "title",
+        "entity": "anxiety-like behavior",
+        "label": "DDF"
+      },
+      "34174995": {
+        "start_idx": 94,
+        "end_idx": 117,
+        "location": "title",
+        "entity": "spinal cord injury (SCI)",
+        "label": "DDF"
+      },
+      "34175050": {
+        "start_idx": 149,
+        "end_idx": 162,
+        "location": "title",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "34174978": {
+        "start_idx": 77,
+        "end_idx": 93,
+        "location": "abstract",
+        "entity": "anti-inflammatory",
+        "label": "DDF"
+      },
+      "34175000": {
+        "start_idx": 99,
+        "end_idx": 108,
+        "location": "abstract",
+        "entity": "antibiotic",
+        "label": "DDF"
+      },
+      "34175080": {
+        "start_idx": 179,
+        "end_idx": 191,
+        "location": "abstract",
+        "entity": "tissue damage",
+        "label": "DDF"
+      },
+      "34175106": {
+        "start_idx": 205,
+        "end_idx": 223,
+        "location": "abstract",
+        "entity": "functional recovery",
+        "label": "DDF"
+      },
+      "34175136": {
+        "start_idx": 235,
+        "end_idx": 265,
+        "location": "abstract",
+        "entity": "central nervous system injuries",
+        "label": "DDF"
+      },
+      "34175201": {
+        "start_idx": 300,
+        "end_idx": 323,
+        "location": "abstract",
+        "entity": "direct anti-inflammatory",
+        "label": "DDF"
+      },
+      "34175227": {
+        "start_idx": 326,
+        "end_idx": 339,
+        "location": "abstract",
+        "entity": "anti-oxidative",
+        "label": "DDF"
+      },
+      "34175247": {
+        "start_idx": 346,
+        "end_idx": 371,
+        "location": "abstract",
+        "entity": "neuroprotective properties",
+        "label": "DDF"
+      },
+      "34175322": {
+        "start_idx": 421,
+        "end_idx": 452,
+        "location": "abstract",
+        "entity": "antibiotic (i.e., antibacterial)",
+        "label": "DDF"
+      },
+      "34175370": {
+        "start_idx": 469,
+        "end_idx": 482,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "34175389": {
+        "start_idx": 488,
+        "end_idx": 511,
+        "location": "abstract",
+        "entity": "systemic immune response",
+        "label": "DDF"
+      },
+      "34175420": {
+        "start_idx": 519,
+        "end_idx": 536,
+        "location": "abstract",
+        "entity": "spinal cord injury",
+        "label": "DDF"
+      },
+      "34175499": {
+        "start_idx": 598,
+        "end_idx": 610,
+        "location": "abstract",
+        "entity": "mental health",
+        "label": "DDF"
+      },
+      "34175517": {
+        "start_idx": 616,
+        "end_idx": 633,
+        "location": "abstract",
+        "entity": "immune suppression",
+        "label": "DDF"
+      },
+      "34175590": {
+        "start_idx": 689,
+        "end_idx": 714,
+        "location": "abstract",
+        "entity": "spinal cord injury-induced",
+        "label": "DDF"
+      },
+      "34175632": {
+        "start_idx": 731,
+        "end_idx": 752,
+        "location": "abstract",
+        "entity": "microbiota-immune axis",
+        "label": "DDF"
+      },
+      "34175771": {
+        "start_idx": 870,
+        "end_idx": 887,
+        "location": "abstract",
+        "entity": "spinal cord injury",
+        "label": "DDF"
+      },
+      "34175847": {
+        "start_idx": 946,
+        "end_idx": 963,
+        "location": "abstract",
+        "entity": "spinal cord injury",
+        "label": "DDF"
+      },
+      "34175886": {
+        "start_idx": 985,
+        "end_idx": 993,
+        "location": "abstract",
+        "entity": "uninjured",
+        "label": "DDF"
+      },
+      "34175910": {
+        "start_idx": 1009,
+        "end_idx": 1017,
+        "location": "abstract",
+        "entity": "uninjured",
+        "label": "DDF"
+      },
+      "34175970": {
+        "start_idx": 1069,
+        "end_idx": 1088,
+        "location": "abstract",
+        "entity": "cytokines/chemokines",
+        "label": "DDF"
+      },
+      "34175995": {
+        "start_idx": 1094,
+        "end_idx": 1121,
+        "location": "abstract",
+        "entity": "fecal microbiota composition",
+        "label": "DDF"
+      },
+      "34176094": {
+        "start_idx": 1193,
+        "end_idx": 1210,
+        "location": "abstract",
+        "entity": "spinal cord injury",
+        "label": "DDF"
+      },
+      "34176132": {
+        "start_idx": 1231,
+        "end_idx": 1252,
+        "location": "abstract",
+        "entity": "microbiota-immune axis",
+        "label": "DDF"
+      },
+      "34176170": {
+        "start_idx": 1269,
+        "end_idx": 1282,
+        "location": "abstract",
+        "entity": "motor recovery",
+        "label": "DDF"
+      },
+      "34176189": {
+        "start_idx": 1288,
+        "end_idx": 1308,
+        "location": "abstract",
+        "entity": "anxiety-like behavior",
+        "label": "DDF"
+      },
+      "34176251": {
+        "start_idx": 1350,
+        "end_idx": 1370,
+        "location": "abstract",
+        "entity": "microglial activation",
+        "label": "DDF"
+      },
+      "34176332": {
+        "start_idx": 1431,
+        "end_idx": 1446,
+        "location": "abstract",
+        "entity": "lesion epicenter",
+        "label": "DDF"
+      },
+      "34176391": {
+        "start_idx": 1490,
+        "end_idx": 1501,
+        "location": "abstract",
+        "entity": "acute effect",
+        "label": "DDF"
+      },
+      "34176411": {
+        "start_idx": 1510,
+        "end_idx": 1529,
+        "location": "abstract",
+        "entity": "microbiota diversity",
+        "label": "DDF"
+      },
+      "34176436": {
+        "start_idx": 1535,
+        "end_idx": 1545,
+        "location": "abstract",
+        "entity": "composition",
+        "label": "DDF"
+      },
+      "34176505": {
+        "start_idx": 1604,
+        "end_idx": 1629,
+        "location": "abstract",
+        "entity": "spinal cord injury-induced",
+        "label": "DDF"
+      },
+      "34176547": {
+        "start_idx": 1646,
+        "end_idx": 1665,
+        "location": "abstract",
+        "entity": "cytokines/chemokines",
+        "label": "DDF"
+      },
+      "34176582": {
+        "start_idx": 1681,
+        "end_idx": 1693,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "34176606": {
+        "start_idx": 1705,
+        "end_idx": 1722,
+        "location": "abstract",
+        "entity": "spinal cord injury",
+        "label": "DDF"
+      },
+      "34176663": {
+        "start_idx": 1762,
+        "end_idx": 1782,
+        "location": "abstract",
+        "entity": "anxiety-like behavior",
+        "label": "DDF"
+      },
+      "34176772": {
+        "start_idx": 1871,
+        "end_idx": 1896,
+        "location": "abstract",
+        "entity": "spinal cord injury-induced",
+        "label": "DDF"
+      },
+      "34176799": {
+        "start_idx": 1898,
+        "end_idx": 1918,
+        "location": "abstract",
+        "entity": "microglial activation",
+        "label": "DDF"
+      },
+      "34176844": {
+        "start_idx": 1943,
+        "end_idx": 1953,
+        "location": "abstract",
+        "entity": "lesion size",
+        "label": "DDF"
+      },
+      "34176878": {
+        "start_idx": 1977,
+        "end_idx": 1990,
+        "location": "abstract",
+        "entity": "motor recovery",
+        "label": "DDF"
+      },
+      "34176921": {
+        "start_idx": 2020,
+        "end_idx": 2037,
+        "location": "abstract",
+        "entity": "microbiota effects",
+        "label": "DDF"
+      },
+      "34176973": {
+        "start_idx": 2072,
+        "end_idx": 2089,
+        "location": "abstract",
+        "entity": "systemic cytokines",
+        "label": "DDF"
+      },
+      "34176996": {
+        "start_idx": 2095,
+        "end_idx": 2104,
+        "location": "abstract",
+        "entity": "chemokines",
+        "label": "DDF"
+      },
+      "34177017": {
+        "start_idx": 2116,
+        "end_idx": 2133,
+        "location": "abstract",
+        "entity": "spinal cord injury",
+        "label": "DDF"
+      },
+      "34177118": {
+        "start_idx": 2217,
+        "end_idx": 2247,
+        "location": "abstract",
+        "entity": "central nervous system diseases",
+        "label": "DDF"
+      },
+      "34177154": {
+        "start_idx": 2253,
+        "end_idx": 2260,
+        "location": "abstract",
+        "entity": "injuries",
+        "label": "DDF"
+      }
+    }
+  },
+  "25940667": {
+    "metadata": {
+      "title": "The dormant blood microbiome in chronic, inflammatory diseases.",
+      "abstract": "Blood in healthy organisms is seen as a 'sterile' environment: it lacks proliferating microbes. Dormant or not-immediately-culturable forms are not absent, however, as intracellular dormancy is well established. We highlight here that a great many pathogens can survive in blood and inside erythrocytes. 'Non-culturability', reflected by discrepancies between plate counts and total counts, is commonplace in environmental microbiology. It is overcome by improved culturing methods, and we asked how common this would be in blood. A number of recent, sequence-based and ultramicroscopic studies have uncovered an authentic blood microbiome in a number of non-communicable diseases. The chief origin of these microbes is the gut microbiome (especially when it shifts composition to a pathogenic state, known as 'dysbiosis'). Another source is microbes translocated from the oral cavity. 'Dysbiosis' is also used to describe translocation of cells into blood or other tissues. To avoid ambiguity, we here use the term 'atopobiosis' for microbes that appear in places other than their normal location. Atopobiosis may contribute to the dynamics of a variety of inflammatory diseases. Overall, it seems that many more chronic, non-communicable, inflammatory diseases may have a microbial component than are presently considered, and may be treatable using bactericidal antibiotics or vaccines."
+    },
+    "entities": {
+      "25940679": {
+        "start_idx": 12,
+        "end_idx": 16,
+        "location": "title",
+        "entity": "blood",
+        "label": "anatomical_location"
+      },
+      "25940940": {
+        "start_idx": 273,
+        "end_idx": 277,
+        "location": "abstract",
+        "entity": "blood",
+        "label": "anatomical_location"
+      },
+      "25941191": {
+        "start_idx": 524,
+        "end_idx": 528,
+        "location": "abstract",
+        "entity": "blood",
+        "label": "anatomical_location"
+      },
+      "25941290": {
+        "start_idx": 623,
+        "end_idx": 627,
+        "location": "abstract",
+        "entity": "blood",
+        "label": "anatomical_location"
+      },
+      "25941391": {
+        "start_idx": 724,
+        "end_idx": 726,
+        "location": "abstract",
+        "entity": "gut",
+        "label": "anatomical_location"
+      },
+      "25941540": {
+        "start_idx": 873,
+        "end_idx": 883,
+        "location": "abstract",
+        "entity": "oral cavity",
+        "label": "anatomical_location"
+      },
+      "25941618": {
+        "start_idx": 951,
+        "end_idx": 955,
+        "location": "abstract",
+        "entity": "blood",
+        "label": "anatomical_location"
+      }
+    }
+  },
+  "31662903": {
+    "metadata": {
+      "title": "Are Nonnutritive Sweeteners Obesogenic? Associations between Diet, Faecal Microbiota, and Short-Chain Fatty Acids in Morbidly Obese Subjects.",
+      "abstract": "Obesity has been associated with changes in the gut microbiota and its metabolites. The study explored changes in the faecal microbiota and short-chain fatty acids (SCFA) associated with the diet (including nonnutritive sweeteners (NNSs)) and evaluated metabolic consequences in subjects with morbid obesity. The diet was assessed with a validated food frequency questionnaire. One unit of NNSs was 100\\u2009mL beverage with NNSs or 2 tablets/teaspoons of NNSs. The faecal microbiota was assessed with GA-map\\u00ae dysbiosis test and SCFA with gas chromatography and flame ionisation detection. Fourteen men and 75 women with a mean age of 44.6 (SD 8.7) years, BMI 41.8 (SD 3.6) kg/m<sup>2</sup>, and intake of NNSs 7.5\\u2009units/day (SD 3.2; range 0-43) were included. Faecal butyric acid was positively and negatively associated with the intake of starch (partial correlation\\u2009=\\u20090.264; <i>p</i>=0.015) and NNSs (partial correlation\\u2009=\\u2009-0.274; <i>p</i>=0.011), respectively. NNSs were associated with changes in four out of 39 bacterial groups. Butyric acid has antiobesogenic effects, reduces insulin resistance, and improves dyslipidaemia. Since the weight-reducing effect of NNSs on obese adults trying to lose weight is dubious, it seems imprudent to use NNSs that might counteract the favourable effects of butyric acid."
+    },
+    "entities": {
+      "31663196": {
+        "start_idx": 293,
+        "end_idx": 306,
+        "location": "abstract",
+        "entity": "morbid obesity",
+        "label": "DDF"
+      }
+    }
+  },
+  "32438623": {
+    "metadata": {
+      "title": "Recipe for a Healthy Gut: Intake of Unpasteurised Milk Is Associated with Increased Lactobacillus Abundance in the Human Gut Microbiome.",
+      "abstract": "The gut microbiota plays a role in gut-brain communication and can influence psychological functioning. Diet is one of the major determinants of gut microbiota composition. The impact of unpasteurised dairy products on the microbiota is unknown. In this observational study, we investigated the effect of a dietary change involving intake of unpasteurised dairy on gut microbiome composition and psychological status in participants undertaking a residential 12-week cookery course on an organic farm. Twenty-four participants completed the study. The majority of food consumed during their stay originated from the organic farm itself and included unpasteurised milk and dairy products. At the beginning and end of the course, participants provided faecal samples and completed self-report questionnaires on a variety of parameters including mood, anxiety and sleep. Nutrient intake was monitored with a food frequency questionnaire. Gut microbiota analysis was performed with 16S rRNA gene sequencing. Additionally, faecal short chain fatty acids (SCFAs) were measured. Relative abundance of the genus Lactobacillus increased significantly between pre- and post-course time points. This increase was associated with participants intake of unpasteurised milk and dairy products. An increase in the faecal SCFA, valerate, was observed along with an increase in the functional richness of the microbiome profile, as determined by measuring the predictive neuroactive potential using a gut-brain module approach. While concerns in relation to safety need to be considered, intake of unpasteurised milk and dairy products appear to be associated with the growth of the probiotic bacterial genus, Lactobacillus, in the human gut. More research is needed on the effect of dietary changes on gut microbiome composition, in particular in relation to the promotion of bacterial genera, such as Lactobacillus, which are recognised as being beneficial for a range of physical and mental health outcomes."
+    },
+    "entities": {
+      "32438707": {
+        "start_idx": 84,
+        "end_idx": 96,
+        "location": "title",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      },
+      "32439727": {
+        "start_idx": 1104,
+        "end_idx": 1116,
+        "location": "abstract",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      },
+      "32440316": {
+        "start_idx": 1693,
+        "end_idx": 1705,
+        "location": "abstract",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      },
+      "32440509": {
+        "start_idx": 1886,
+        "end_idx": 1898,
+        "location": "abstract",
+        "entity": "Lactobacillus",
+        "label": "DDF"
+      }
+    }
+  },
+  "26923630": {
+    "metadata": {
+      "title": "Cognitive impairment by antibiotic-induced gut dysbiosis: Analysis of gut microbiota-brain communication.",
+      "abstract": "Emerging evidence indicates that disruption of the gut microbial community (dysbiosis) impairs mental health. Germ-free mice and antibiotic-induced gut dysbiosis are two approaches to establish causality in gut microbiota-brain relationships. However, both models have limitations, as germ-free mice display alterations in blood-brain barrier and brain ultrastructure and antibiotics may act directly on the brain. We hypothesized that the concerns related to antibiotic-induced gut dysbiosis can only adequately be addressed if the effect of intragastric treatment of adult mice with multiple antibiotics on (i) gut microbial community, (ii) metabolite profile in the colon, (iii) circulating metabolites, (iv) expression of neuronal signaling molecules in distinct brain areas and (v) cognitive behavior is systematically investigated. Of the antibiotics used (ampicillin, bacitracin, meropenem, neomycin, vancomycin), ampicillin had some oral bioavailability but did not enter the brain. 16S rDNA sequencing confirmed antibiotic-induced microbial community disruption, and metabolomics revealed that gut dysbiosis was associated with depletion of bacteria-derived metabolites in the colon and alterations of lipid species and converted microbe-derived molecules in the plasma. Importantly, novel object recognition, but not spatial, memory was impaired in antibiotic-treated mice. This cognitive deficit was associated with brain region-specific changes in the expression of cognition-relevant signaling molecules, notably brain-derived neurotrophic factor, N-methyl-d-aspartate receptor subunit 2B, serotonin transporter and neuropeptide Y system. We conclude that circulating metabolites and the cerebral neuropeptide Y system play an important role in the cognitive impairment and dysregulation of cerebral signaling molecules due to antibiotic-induced gut dysbiosis."
+    },
+    "entities": {
+      "26923673": {
+        "start_idx": 43,
+        "end_idx": 55,
+        "location": "title",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "26923778": {
+        "start_idx": 148,
+        "end_idx": 160,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "26924109": {
+        "start_idx": 479,
+        "end_idx": 491,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "26924733": {
+        "start_idx": 1103,
+        "end_idx": 1115,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      },
+      "26924923": {
+        "start_idx": 1293,
+        "end_idx": 1316,
+        "location": "abstract",
+        "entity": "novel object recognition",
+        "label": "DDF"
+      },
+      "26925019": {
+        "start_idx": 1389,
+        "end_idx": 1405,
+        "location": "abstract",
+        "entity": "cognitive deficit",
+        "label": "DDF"
+      },
+      "26925392": {
+        "start_idx": 1762,
+        "end_idx": 1781,
+        "location": "abstract",
+        "entity": "cognitive impairment",
+        "label": "DDF"
+      },
+      "26925489": {
+        "start_idx": 1859,
+        "end_idx": 1871,
+        "location": "abstract",
+        "entity": "gut dysbiosis",
+        "label": "DDF"
+      }
+    }
+  },
+  "34480631": {
+    "metadata": {
+      "title": "Microglial depletion and abnormalities in gut microbiota composition and short-chain fatty acids in mice after repeated administration of colony stimulating factor 1 receptor inhibitor PLX5622.",
+      "abstract": "PLX5622, a brain-penetrant highly specific inhibitor of the colony-stimulating factor 1 receptor (CSF1R), is used to eliminate microglia in the brain. Considering the role of microglia and gut microbiota in the brain homeostasis, this study was undertaken to investigate whether repeated intragastric administration of PLX5622 (65\\u00a0mg/kg/day for consecutive 7\\u00a0days) could affect the composition of gut microbiota and the concentration of short-chain fatty acids (SCFAs) in fresh feces of adult mice. Repeated administration of PLX5622 caused significant reductions of the expression of genes and proteins for microglial markers in the prefrontal cortex (PFC) and hippocampus compared to control mice although the elimination of brain's microglia was partial. There was a significant alteration in the \\u03b2-diversity of intestine microbiota in the PLX5622-treated group. Linear discriminant analysis effect size identified eight significant enriched bacteria as microbial markers for PLX5622-treated group. Repeated administration of PLX5622 affected the relative abundance of several bacteria at the genus and species levels. Furthermore, repeated administration of PLX5622 caused a significant change in lactic acid compared to control group. Interestingly, we found significant correlations between microglial markers in the brain and the relative abundance of several bacteria, suggesting microbiome-microglia crosstalk through the brain-gut axis. These data demonstrate that repeated administration of PLX5622 leads to an abnormal composition of the gut microbiota and lactic acid in adult mice. Therefore, abnormalities in the composition of gut microbiota after repeated treatment of PLX5622 should be considered for behavioral and biological functions in animals treated with CSF1R inhibitors."
+    },
+    "entities": {
+      "34480673": {
+        "start_idx": 42,
+        "end_idx": 55,
+        "location": "title",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "34480704": {
+        "start_idx": 73,
+        "end_idx": 95,
+        "location": "title",
+        "entity": "short-chain fatty acids",
+        "label": "DDF"
+      },
+      "34480758": {
+        "start_idx": 127,
+        "end_idx": 135,
+        "location": "abstract",
+        "entity": "microglia",
+        "label": "DDF"
+      },
+      "34480806": {
+        "start_idx": 175,
+        "end_idx": 183,
+        "location": "abstract",
+        "entity": "microglia",
+        "label": "DDF"
+      },
+      "34480820": {
+        "start_idx": 189,
+        "end_idx": 202,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "34480842": {
+        "start_idx": 211,
+        "end_idx": 227,
+        "location": "abstract",
+        "entity": "brain homeostasis",
+        "label": "DDF"
+      },
+      "34481038": {
+        "start_idx": 407,
+        "end_idx": 420,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "34481078": {
+        "start_idx": 447,
+        "end_idx": 477,
+        "location": "abstract",
+        "entity": "short-chain fatty acids (SCFAs)",
+        "label": "DDF"
+      },
+      "34481249": {
+        "start_idx": 618,
+        "end_idx": 635,
+        "location": "abstract",
+        "entity": "microglial markers",
+        "label": "DDF"
+      },
+      "34481303": {
+        "start_idx": 672,
+        "end_idx": 682,
+        "location": "abstract",
+        "entity": "hippocampus",
+        "label": "DDF"
+      },
+      "34481376": {
+        "start_idx": 745,
+        "end_idx": 753,
+        "location": "abstract",
+        "entity": "microglia",
+        "label": "DDF"
+      },
+      "34481461": {
+        "start_idx": 830,
+        "end_idx": 849,
+        "location": "abstract",
+        "entity": "intestine microbiota",
+        "label": "DDF"
+      },
+      "34481591": {
+        "start_idx": 960,
+        "end_idx": 967,
+        "location": "abstract",
+        "entity": "bacteria",
+        "label": "DDF"
+      },
+      "34481726": {
+        "start_idx": 1095,
+        "end_idx": 1102,
+        "location": "abstract",
+        "entity": "bacteria",
+        "label": "DDF"
+      },
+      "34481847": {
+        "start_idx": 1216,
+        "end_idx": 1226,
+        "location": "abstract",
+        "entity": "lactic acid",
+        "label": "DDF"
+      },
+      "34481943": {
+        "start_idx": 1312,
+        "end_idx": 1329,
+        "location": "abstract",
+        "entity": "microglial markers",
+        "label": "DDF"
+      },
+      "34482013": {
+        "start_idx": 1382,
+        "end_idx": 1389,
+        "location": "abstract",
+        "entity": "bacteria",
+        "label": "DDF"
+      },
+      "34482034": {
+        "start_idx": 1403,
+        "end_idx": 1422,
+        "location": "abstract",
+        "entity": "microbiome-microglia",
+        "label": "DDF"
+      },
+      "34482077": {
+        "start_idx": 1446,
+        "end_idx": 1459,
+        "location": "abstract",
+        "entity": "brain-gut axis",
+        "label": "DDF"
+      },
+      "34482196": {
+        "start_idx": 1565,
+        "end_idx": 1578,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "34482215": {
+        "start_idx": 1584,
+        "end_idx": 1594,
+        "location": "abstract",
+        "entity": "lactic acid",
+        "label": "DDF"
+      },
+      "34482289": {
+        "start_idx": 1658,
+        "end_idx": 1671,
+        "location": "abstract",
+        "entity": "gut microbiota",
+        "label": "DDF"
+      },
+      "34482365": {
+        "start_idx": 1734,
+        "end_idx": 1743,
+        "location": "abstract",
+        "entity": "behavioral",
+        "label": "DDF"
+      },
+      "34482380": {
+        "start_idx": 1749,
+        "end_idx": 1768,
+        "location": "abstract",
+        "entity": "biological functions",
+        "label": "DDF"
+      }
+    }
+  },
+  "28556833": {
+    "metadata": {
+      "title": "Blockade of interleukin-6 receptor in the periphery promotes rapid and sustained antidepressant actions: a possible role of gut-microbiota-brain axis.",
+      "abstract": "Depression is a common, severe and chronic psychiatric disease. Although the currently available antidepressants have been used in the treatment of depression, their beneficial effects are limited. Accumulating evidence suggests that pro-inflammatory cytokines such as interleukin-6 (IL-6) have an important role in the pathogenesis of depression. This study was undertaken to examine whether anti-mouse IL-6 receptor antibody (MR16-1) induces antidepressant effects in a social defeat stress model. Intravenous injection of MR16-1 induced rapid-onset and long-lasting antidepressant effects in susceptible mice after social defeat stress through its anti-inflammatory actions. In contrast, intracerebroventricular injection of MR16-1 induced no antidepressant effects in susceptible mice. Furthermore, treatment with MR16-1 could significantly normalize alterations in the expression of synaptic proteins (postsynaptic density protein 95 and \\u03b1-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor 1) and dendritic spine density in the brain regions of susceptible mice. Gut microbiota analysis using 16S ribosomal RNA gene sequencing showed that MR16-1 significantly improved decreased Firmicutes/Bacteroidetes ratio in susceptible mice. It also significantly improved decreased levels of Oscillospira in susceptible mice. These findings suggest that peripheral IL-6 has a key role in the pathogenesis of depression and that the blockade of IL-6 receptor in the periphery might have rapid-onset and long-lasting antidepressant effects by normalizing the altered composition of gut microbiota in susceptible mice after social defeat stress. Therefore, the blockade of IL-6 receptor in the periphery shows promise as a novel therapeutic approach for depressed patients with higher IL-6 blood levels."
+    },
+    "entities": {
+      "28556914": {
+        "start_idx": 81,
+        "end_idx": 102,
+        "location": "title",
+        "entity": "antidepressant actions",
+        "label": "DDF"
+      },
+      "28556876": {
+        "start_idx": 43,
+        "end_idx": 61,
+        "location": "abstract",
+        "entity": "psychiatric disease",
+        "label": "DDF"
+      },
+      "28556930": {
+        "start_idx": 97,
+        "end_idx": 111,
+        "location": "abstract",
+        "entity": "antidepressants",
+        "label": "DDF"
+      },
+      "28556981": {
+        "start_idx": 148,
+        "end_idx": 157,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "28557169": {
+        "start_idx": 336,
+        "end_idx": 345,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "28557277": {
+        "start_idx": 444,
+        "end_idx": 465,
+        "location": "abstract",
+        "entity": "antidepressant effects",
+        "label": "DDF"
+      },
+      "28557402": {
+        "start_idx": 569,
+        "end_idx": 590,
+        "location": "abstract",
+        "entity": "antidepressant effects",
+        "label": "DDF"
+      },
+      "28557579": {
+        "start_idx": 746,
+        "end_idx": 767,
+        "location": "abstract",
+        "entity": "antidepressant effects",
+        "label": "DDF"
+      },
+      "28558251": {
+        "start_idx": 1418,
+        "end_idx": 1427,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "28558358": {
+        "start_idx": 1525,
+        "end_idx": 1546,
+        "location": "abstract",
+        "entity": "antidepressant effects",
+        "label": "DDF"
+      },
+      "28558594": {
+        "start_idx": 1761,
+        "end_idx": 1778,
+        "location": "abstract",
+        "entity": "depressed patients",
+        "label": "DDF"
+      }
+    }
+  },
+  "30405455": {
+    "metadata": {
+      "title": "Metabolic and Microbiota Measures as Peripheral Biomarkers in Major Depressive Disorder.",
+      "abstract": "Advances in understanding the role of the microbiome in physical and mental health are at the forefront of medical research and hold potential to have a direct impact on precision medicine approaches. In the past 7 years, we have studied the role of microbiota-brain communication on behavior in mouse models using germ-free mice, mice exposed to antibiotics, and healthy specific pathogen free mice. Through our work and that of others, we have seen an amazing increase in our knowledge of how bacteria signal to the brain and the implications this has for psychiatry. Gut microbiota composition and function are influenced both by genetics, age, sex, diet, life experiences, and many other factors of psychiatric and bodily disorders and thus may act as potential biomarkers of the gut-brain axis that could be used in psychiatry and co-morbid conditions. There is a particular need in major depressive disorder and other mental illness to identify biomarkers that can stratify patients into more homogeneous groups to provide better treatment and for development of new therapeutic approaches. Peripheral outcome measures of host-microbe bidirectional communication have significant translational value as biomarkers. Enabling stratification of clinical populations, based on individual biological differences, to predict treatment response to pharmacological and non-pharmacological interventions. Here we consider the links between co-morbid metabolic syndrome and depression, focusing on biomarkers including leptin and ghrelin in combination with assessing gut microbiota composition, as a potential tool to help identify individual differences in depressed population."
+    },
+    "entities": {
+      "30405517": {
+        "start_idx": 62,
+        "end_idx": 86,
+        "location": "title",
+        "entity": "Major Depressive Disorder",
+        "label": "DDF"
+      },
+      "30406158": {
+        "start_idx": 703,
+        "end_idx": 713,
+        "location": "abstract",
+        "entity": "psychiatric",
+        "label": "DDF"
+      },
+      "30406174": {
+        "start_idx": 719,
+        "end_idx": 724,
+        "location": "abstract",
+        "entity": "bodily",
+        "label": "DDF"
+      },
+      "30406291": {
+        "start_idx": 836,
+        "end_idx": 844,
+        "location": "abstract",
+        "entity": "co-morbid",
+        "label": "DDF"
+      },
+      "30406343": {
+        "start_idx": 888,
+        "end_idx": 912,
+        "location": "abstract",
+        "entity": "major depressive disorder",
+        "label": "DDF"
+      },
+      "30406379": {
+        "start_idx": 924,
+        "end_idx": 937,
+        "location": "abstract",
+        "entity": "mental illness",
+        "label": "DDF"
+      },
+      "30406892": {
+        "start_idx": 1437,
+        "end_idx": 1464,
+        "location": "abstract",
+        "entity": "co-morbid metabolic syndrome",
+        "label": "DDF"
+      },
+      "30406925": {
+        "start_idx": 1470,
+        "end_idx": 1479,
+        "location": "abstract",
+        "entity": "depression",
+        "label": "DDF"
+      },
+      "30406970": {
+        "start_idx": 1515,
+        "end_idx": 1520,
+        "location": "abstract",
+        "entity": "leptin",
+        "label": "DDF"
+      },
+      "30406981": {
+        "start_idx": 1526,
+        "end_idx": 1532,
+        "location": "abstract",
+        "entity": "ghrelin",
+        "label": "DDF"
+      },
+      "30407110": {
+        "start_idx": 1655,
+        "end_idx": 1663,
+        "location": "abstract",
+        "entity": "depressed",
+        "label": "DDF"
+      }
+    }
+  },
+  "33968794": {
+    "metadata": {
+      "title": "Review: The Role of Intestinal Dysbiosis in Parkinson's disease.",
+      "abstract": "Several studies have highlighted the roles played by the gut microbiome in central nervous system diseases. Clinical symptoms and neuropathology have suggested that Parkinson's disease may originate in the gut, which is home to approximately 100 trillion microbes. Alterations in the gastrointestinal microbiota populations may promote the development and progression of Parkinson's disease. Here, we reviewed existing studies that have explored the role of intestinal dysbiosis in Parkinson's disease, focusing on the roles of microbiota, their metabolites, and components in inflammation, barrier failure, microglial activation, and \\u03b1-synuclein pathology. We conclude that there are intestinal dysbiosis in Parkinson's disease. Intestinal dysbiosis is likely involved in the pathogenesis of Parkinson's disease through mechanisms that include barrier destruction, inflammation and oxidative stress, decreased dopamine production, and molecular mimicry. Additional studies remain necessary to explore and verify the mechanisms through which dysbiosis may cause or promote Parkinson's disease. Preclinical studies have shown that gastrointestinal microbial therapy may represent an effective and novel treatment for Parkinson's disease; however, more studies, especially clinical studies, are necessary to explore the curative effects of microbial therapy in Parkinson's disease."
+    },
+    "entities": {
+      "33968825": {
+        "start_idx": 31,
+        "end_idx": 39,
+        "location": "title",
+        "entity": "Dysbiosis",
+        "label": "DDF"
+      },
+      "33968838": {
+        "start_idx": 44,
+        "end_idx": 62,
+        "location": "title",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33968869": {
+        "start_idx": 75,
+        "end_idx": 105,
+        "location": "abstract",
+        "entity": "central nervous system diseases",
+        "label": "DDF"
+      },
+      "33968959": {
+        "start_idx": 165,
+        "end_idx": 183,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33969095": {
+        "start_idx": 301,
+        "end_idx": 310,
+        "location": "abstract",
+        "entity": "microbiota",
+        "label": "DDF"
+      },
+      "33969165": {
+        "start_idx": 371,
+        "end_idx": 389,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33969252": {
+        "start_idx": 458,
+        "end_idx": 477,
+        "location": "abstract",
+        "entity": "intestinal dysbiosis",
+        "label": "DDF"
+      },
+      "33969276": {
+        "start_idx": 482,
+        "end_idx": 500,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33969322": {
+        "start_idx": 528,
+        "end_idx": 537,
+        "location": "abstract",
+        "entity": "microbiota",
+        "label": "DDF"
+      },
+      "33969340": {
+        "start_idx": 546,
+        "end_idx": 556,
+        "location": "abstract",
+        "entity": "metabolites",
+        "label": "DDF"
+      },
+      "33969371": {
+        "start_idx": 577,
+        "end_idx": 588,
+        "location": "abstract",
+        "entity": "inflammation",
+        "label": "DDF"
+      },
+      "33969385": {
+        "start_idx": 591,
+        "end_idx": 605,
+        "location": "abstract",
+        "entity": "barrier failure",
+        "label": "DDF"
+      },
+      "33969402": {
+        "start_idx": 608,
+        "end_idx": 628,
+        "location": "abstract",
+        "entity": "microglial activation",
+        "label": "DDF"
+      },
+      "33969429": {
+        "start_idx": 635,
+        "end_idx": 660,
+        "location": "abstract",
+        "entity": "\\u03b1-synuclein pathology",
+        "label": "DDF"
+      },
+      "33969484": {
+        "start_idx": 690,
+        "end_idx": 709,
+        "location": "abstract",
+        "entity": "intestinal dysbiosis",
+        "label": "DDF"
+      },
+      "33969508": {
+        "start_idx": 714,
+        "end_idx": 732,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33969529": {
+        "start_idx": 735,
+        "end_idx": 754,
+        "location": "abstract",
+        "entity": "Intestinal dysbiosis",
+        "label": "DDF"
+      },
+      "33969576": {
+        "start_idx": 782,
+        "end_idx": 793,
+        "location": "abstract",
+        "entity": "pathogenesis",
+        "label": "DDF"
+      },
+      "33969592": {
+        "start_idx": 798,
+        "end_idx": 816,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33969644": {
+        "start_idx": 850,
+        "end_idx": 868,
+        "location": "abstract",
+        "entity": "barrier destruction",
+        "label": "DDF"
+      },
+      "33969665": {
+        "start_idx": 871,
+        "end_idx": 882,
+        "location": "abstract",
+        "entity": "inflammation",
+        "label": "DDF"
+      },
+      "33969682": {
+        "start_idx": 888,
+        "end_idx": 903,
+        "location": "abstract",
+        "entity": "oxidative stress",
+        "label": "DDF"
+      },
+      "33969710": {
+        "start_idx": 916,
+        "end_idx": 934,
+        "location": "abstract",
+        "entity": "dopamine production",
+        "label": "DDF"
+      },
+      "33969735": {
+        "start_idx": 941,
+        "end_idx": 957,
+        "location": "abstract",
+        "entity": "molecular mimicry",
+        "label": "DDF"
+      },
+      "33969841": {
+        "start_idx": 1047,
+        "end_idx": 1055,
+        "location": "abstract",
+        "entity": "dysbiosis",
+        "label": "DDF"
+      },
+      "33969872": {
+        "start_idx": 1078,
+        "end_idx": 1096,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33969929": {
+        "start_idx": 1135,
+        "end_idx": 1168,
+        "location": "abstract",
+        "entity": "gastrointestinal microbial therapy",
+        "label": "DDF"
+      },
+      "33970015": {
+        "start_idx": 1221,
+        "end_idx": 1239,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      },
+      "33970158": {
+        "start_idx": 1364,
+        "end_idx": 1382,
+        "location": "abstract",
+        "entity": "Parkinson's disease",
+        "label": "DDF"
+      }
+    }
+  },
+  "25869281": {
+    "metadata": {
+      "title": "Lactobacillus fermentum NS9 restores the antibiotic induced physiological and psychological abnormalities in rats.",
+      "abstract": "Gut microbiota play a vital role in maintaining the health of the host. Many factors affect gut microbiota; application of broad range antibiotics disturb microbiota, while probiotic application protects the microbiota. To investigate how probiotics alter the physiological and psychological changes induced by antibiotics, we tested the performance of ampicillin-treated rats in the presence or absence of Lactobacillus fermentum strain NS9, in elevated plus maze and Morris water maze. The results showed that NS9 normalised the composition of gut microbiota and alleviated the ampicillin-induced inflammation in the colon. The levels of the mineralocorticoid and N-methyl-D-aspartate receptors were also elevated in the hippocampus of the ampillicin+NS9 treated group. NS9 administration also reduced the anxiety-like behaviour and alleviated the ampicillin-induced impairment in memory retention. These findings suggest that NS9 is beneficial to the host, because it restores the physiological and psychological abnormalities induced by ampicillin. Our results highlight how gut contents regulate the brain, and shed light on the clinical applications of probiotics to treat the side effect of antibiotics and mental disorders."
+    },
+    "entities": {
+      "25869322": {
+        "start_idx": 41,
+        "end_idx": 72,
+        "location": "title",
+        "entity": "antibiotic induced physiological",
+        "label": "DDF"
+      },
+      "25869359": {
+        "start_idx": 78,
+        "end_idx": 104,
+        "location": "title",
+        "entity": "psychological abnormalities",
+        "label": "DDF"
+      },
+      "25869880": {
+        "start_idx": 599,
+        "end_idx": 610,
+        "location": "abstract",
+        "entity": "inflammation",
+        "label": "DDF"
+      },
+      "25870089": {
+        "start_idx": 808,
+        "end_idx": 829,
+        "location": "abstract",
+        "entity": "anxiety-like behaviour",
+        "label": "DDF"
+      },
+      "25870164": {
+        "start_idx": 883,
+        "end_idx": 898,
+        "location": "abstract",
+        "entity": "memory retention",
+        "label": "DDF"
+      },
+      "25870265": {
+        "start_idx": 984,
+        "end_idx": 996,
+        "location": "abstract",
+        "entity": "physiological",
+        "label": "DDF"
+      },
+      "25870283": {
+        "start_idx": 1002,
+        "end_idx": 1028,
+        "location": "abstract",
+        "entity": "psychological abnormalities",
+        "label": "DDF"
+      },
+      "25870464": {
+        "start_idx": 1183,
+        "end_idx": 1208,
+        "location": "abstract",
+        "entity": "side effect of antibiotics",
+        "label": "DDF"
+      },
+      "25870495": {
+        "start_idx": 1214,
+        "end_idx": 1229,
+        "location": "abstract",
+        "entity": "mental disorders",
+        "label": "DDF"
+      }
+    }
+  },
+  "37849234": {
+    "metadata": {
+      "title": "Microbiota from Alzheimer's disease patients induce deficits in cognition and hippocampal neurogenesis.",
+      "abstract": "Alzheimer's disease is a complex neurodegenerative disorder leading to a decline in cognitive function and mental health. Recent research has positioned the gut microbiota as an important susceptibility factor in Alzheimer's disease by showing specific alterations in the gut microbiome composition of Alzheimer's patients and in rodent models. However, it is unknown whether gut microbiota alterations are causal in the manifestation of Alzheimer's symptoms. To understand the involvement of Alzheimer's patient gut microbiota in host physiology and behaviour, we transplanted faecal microbiota from Alzheimer's patients and age-matched healthy controls into microbiota-depleted young adult rats. We found impairments in behaviours reliant on adult hippocampal neurogenesis, an essential process for certain memory functions and mood, resulting from Alzheimer's patient transplants. Notably, the severity of impairments correlated with clinical cognitive scores in donor patients. Discrete changes in the rat caecal and hippocampal metabolome were also evident. As hippocampal neurogenesis cannot be measured in living humans but is modulated by the circulatory systemic environment, we assessed the impact of the Alzheimer's systemic environment on proxy neurogenesis readouts. Serum from Alzheimer's patients decreased neurogenesis in human cells in vitro and were associated with cognitive scores and key microbial genera. Our findings reveal for the first time, that Alzheimer's symptoms can be transferred to a healthy young organism via the gut microbiota, confirming a causal role of gut microbiota in Alzheimer's disease, and highlight hippocampal neurogenesis as a converging central cellular process regulating systemic circulatory and gut-mediated factors in Alzheimer's."
+    },
+    "entities": {
+      "37849250": {
+        "start_idx": 16,
+        "end_idx": 34,
+        "location": "title",
+        "entity": "Alzheimer's disease",
+        "label": "DDF"
+      },
+      "37849267": {
+        "start_idx": 33,
+        "end_idx": 58,
+        "location": "abstract",
+        "entity": "neurodegenerative disorder",
+        "label": "DDF"
+      },
+      "37849447": {
+        "start_idx": 213,
+        "end_idx": 231,
+        "location": "abstract",
+        "entity": "Alzheimer's disease",
+        "label": "DDF"
+      },
+      "37849536": {
+        "start_idx": 302,
+        "end_idx": 321,
+        "location": "abstract",
+        "entity": "Alzheimer's patients",
+        "label": "DDF"
+      },
+      "37849672": {
+        "start_idx": 438,
+        "end_idx": 457,
+        "location": "abstract",
+        "entity": "Alzheimer's symptoms",
+        "label": "DDF"
+      },
+      "37849727": {
+        "start_idx": 493,
+        "end_idx": 511,
+        "location": "abstract",
+        "entity": "Alzheimer's patient",
+        "label": "DDF"
+      },
+      "37849835": {
+        "start_idx": 601,
+        "end_idx": 620,
+        "location": "abstract",
+        "entity": "Alzheimer's patients",
+        "label": "DDF"
+      },
+      "37850085": {
+        "start_idx": 851,
+        "end_idx": 869,
+        "location": "abstract",
+        "entity": "Alzheimer's patient",
+        "label": "DDF"
+      },
+      "37850449": {
+        "start_idx": 1215,
+        "end_idx": 1225,
+        "location": "abstract",
+        "entity": "Alzheimer's",
+        "label": "DDF"
+      },
+      "37850525": {
+        "start_idx": 1291,
+        "end_idx": 1310,
+        "location": "abstract",
+        "entity": "Alzheimer's patients",
+        "label": "DDF"
+      },
+      "37850706": {
+        "start_idx": 1472,
+        "end_idx": 1491,
+        "location": "abstract",
+        "entity": "Alzheimer's symptoms",
+        "label": "DDF"
+      },
+      "37850844": {
+        "start_idx": 1610,
+        "end_idx": 1628,
+        "location": "abstract",
+        "entity": "Alzheimer's disease",
+        "label": "DDF"
+      },
+      "37851005": {
+        "start_idx": 1771,
+        "end_idx": 1781,
+        "location": "abstract",
+        "entity": "Alzheimer's",
+        "label": "DDF"
+      }
+    }
+  }
+}
